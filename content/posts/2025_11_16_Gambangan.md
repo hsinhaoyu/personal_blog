@@ -78,7 +78,7 @@ Maybe this is because the music that he transcribed was, in fact, not by I Wayan
 
 > I Lotring, composer, xvii, 62, 152, 165, 197, 204, 227, 348; biographical sketch of, 308; compositional method of, 308-09; music described, 309-27.
 
-Likewise, McPhee's memoir _A House in Bali_ (1947), has a chapter titled Lotring, in which he explicitly called Lotring a composer [2].  As I re-read that chapter, I was struck by how in awe McPhee was about Lotring as a composer.  He didn't see Lotring as a peer.  He appeared to see him as one of the greatest composers ever.  Not being a musicologist, I am in no position to judge, but I suspect that very few Western composers in the 1940s showed so much admiration for a non-Western peer [3].
+Likewise, McPhee's memoir _A House in Bali_ (1947) has a chapter titled Lotring, in which he explicitly called Lotring a composer [2].  As I re-read that chapter, I was struck by how in awe McPhee was about Lotring as a composer.  He didn't see Lotring as a peer.  He appeared to see him as one of the greatest composers ever.  Not being a musicologist, I am in no position to judge, but I suspect that very few Western composers in the 1940s showed so much admiration for a non-Western peer [3].
 
 Having said that, the issue of cultural appropriation does not go away so easily.  I see several videos of McPhee's piano transcriptions performed in music halls as regular concert pieces, showing little if any awareness of the cultural context of the Balinese source.  This might be partially because the piano arrangements took away most of the otherworldliness of gamelan.  This can only be helped by actual gamelan performances outside Indonesia.
 
