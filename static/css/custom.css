@@ -72,3 +72,18 @@ body {
 #single hr {
   margin: 0.4em 0;
 }
+
+/* Micro section pagination: Older left, Newer right in one row */
+#single .pagination {
+  margin: 32px 0;
+  display: flex;
+  justify-content: space-between;  /* left + right */
+  align-items: center;
+}
+
+/* Cancel any floats the theme might set */
+#single .pagination .pre,
+#single .pagination .next {
+  float: none !important;
+  text-align: inherit;
+}

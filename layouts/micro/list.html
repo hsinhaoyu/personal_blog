@@ -1,8 +1,9 @@
 {{ define "main" }}
   <div id="single">
 
-    {{/* Create a paginator for the notes section */}}
-    {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+    {{/* Paginator for the micro section.
+          Change 20 to however many micro entries you want per page. */}}
+    {{ $paginator := .Paginate (.Pages.ByDate.Reverse) 15 }}
 
     {{ range $paginator.Pages }}
       <div class="content">
@@ -18,26 +19,25 @@
           {{ end }}
         </div>
 
+        {{/* Full micro entry content, no title */}}
         {{ .Content }}
       </div>
-
     {{ end }}
 
-
-    {{/* Pagination links styled like the theme */}}
+    {{/* Pagination links: Older left, Newer right */}}
     <div class="pagination">
-      {{ if $paginator.HasPrev }}
+      {{ if $paginator.HasNext }}
         <div class="pre">
-          <a href="{{ $paginator.Prev.URL }}">
-            {{ i18n "postsNewer" }}
+          <a href="{{ $paginator.Next.URL }}">
+            {{ i18n "postsOlder" }}
           </a>
         </div>
       {{ end }}
 
-      {{ if $paginator.HasNext }}
+      {{ if $paginator.HasPrev }}
         <div class="next">
-          <a href="{{ $paginator.Next.URL }}">
-            {{ i18n "postsOlder" }}
+          <a href="{{ $paginator.Prev.URL }}">
+            {{ i18n "postsNewer" }}
           </a>
         </div>
       {{ end }}
