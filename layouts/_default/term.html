@@ -1,0 +1,55 @@
+{{ define "main" }}
+  {{ partial "profile.html" . }}
+
+  <div id="list-page">
+    {{/* Use the pages for this term (e.g. all pages tagged "gamelan") */}}
+    {{ $pages := .Pages.ByDate.Reverse }}
+    {{ $paginator := .Paginate $pages }}
+
+    {{ range $paginator.Pages }}
+      <div class="item">
+        <div class="date">
+          {{ i18n "publishDateShort" . }}
+        </div>
+
+        <h2 class="title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+
+        {{/* Optional summary, same toggle as home page */}}
+        {{ if ne .Site.Params.hiddenPostSummaryInHomePage true }}
+          <div class="summary">
+            {{ .Summary | plainify | htmlUnescape }}
+          </div>
+        {{ end }}
+
+        {{/* Tags line, styled like micro tags (#foo) */}}
+        <div class="tags">
+          {{ with .Params.tags }}
+            {{ range . }}
+              <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">#{{ . }}</a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+
+    <div class="pagination">
+      {{ if $paginator.HasPrev }}
+        <div class="pre">
+          <a href="{{ $paginator.Prev.URL }}">
+            {{ with .Site.Params.newerPosts }}{{ . }}{{ else }}{{ i18n "postsNewer" }}{{ end }}
+          </a>
+        </div>
+      {{ end }}
+
+      {{ if $paginator.HasNext }}
+        <div class="next">
+          <a href="{{ $paginator.Next.URL }}">
+            {{ with .Site.Params.olderPosts }}{{ . }}{{ else }}{{ i18n "postsOlder" }}{{ end }}
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

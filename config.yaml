@@ -66,7 +66,7 @@ params:
   math: true
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
-  # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
+  # Website copyright, default: '© Copyright 2021 {params.author}'
   copyright: '' 
 
   # Extra links in navigation
