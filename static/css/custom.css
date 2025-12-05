@@ -18,3 +18,57 @@ body {
   line-height: 3.0;               /* optional, improves spacing */
 }
 
+/* Make paragraphs tighter in micro section */
+#single .content p {
+  margin-bottom: 0.5em;
+}
+
+/* Tighten the meta block */
+#single .meta {
+  margin-bottom: 0.3em;
+}
+
+/* Reduce spacing around the separators */
+#single hr {
+  margin: 1em 0;
+}
+
+
+/* Right-align the meta block (date + tags) */
+#single .meta {
+  text-align: right;
+  margin-bottom: 0.3em;   /* reduce space below the metadata */
+  margin-top: 0.3em;      /* reduce space above the metadata */
+  font-size: 0.85rem;     /* optional: slightly smaller metadata */
+  color: #666;            /* optional: soften text color */
+}
+
+/* Reduce spacing between micro entries */
+#single .content {
+  margin-bottom: 0.8em;     /* default theme spacing is large */
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #ddd; /* replace <hr> with a subtle line */
+}
+
+/* If you're still using <hr>, make it less tall */
+#single hr {
+  margin: 0.3em 0;   /* much smaller than the theme default */
+}
+
+
+/* Reduce top/bottom spacing of each micro entry */
+#single .content {
+  margin-top: 0.2em;
+  margin-bottom: 0.4em;
+  padding-bottom: 0.4em;
+}
+
+/* Reduce paragraph spacing inside micro entries */
+#single .content p {
+  margin-bottom: 0.5em;
+}
+
+/* Reduce space around horizontal rules, or remove them */
+#single hr {
+  margin: 0.4em 0;
+}

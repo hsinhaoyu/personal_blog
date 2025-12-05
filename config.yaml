@@ -1,6 +1,6 @@
 baseURL: https://personal.hhyu.org/
 languageCode: en-us
-title: Hsin-Hao Yu's personal blog
+title: Hsin-Hao Yu's Personal Blog
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
@@ -59,7 +59,7 @@ params:
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: false
   # To enable table of content, you could set `showToc: true`, default is `false`
-  showToc: true
+  showToc: false
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
   showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
@@ -72,8 +72,9 @@ params:
   # Extra links in navigation
   links:
     ## e.g.
-    # - name: Project
-    #   path: /project
+     - name: Micro
+       path: /micro
+       weight: 10
 
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:

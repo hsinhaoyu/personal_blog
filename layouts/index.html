@@ -1,0 +1,45 @@
+{{ define "main" }}
+  {{ partial "profile.html" . }}
+
+  <div id="list-page">
+    {{/* Only use pages from the `posts` section on the home page */}}
+    {{ $pages := where .Site.RegularPages "Section" "posts" }}
+    {{ $paginator := .Paginate $pages }}
+
+    {{ range $paginator.Pages }}
+      <div class="item">
+        <div class="date">
+          {{ i18n "publishDateShort" . }}
+        </div>
+
+        <h2 class="title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+
+        {{ if ne .Site.Params.hiddenPostSummaryInHomePage true }}
+          <div class="summary">
+            {{ .Summary | plainify | htmlUnescape }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <div class="pagination">
+      {{ if $paginator.HasPrev }}
+        <div class="pre">
+          <a href="{{ $paginator.Prev.URL }}">
+            {{ with .Site.Params.newerPosts }}{{ . }}{{ else }}{{ i18n "postsNewer" }}{{ end }}
+          </a>
+        </div>
+      {{ end }}
+
+      {{ if $paginator.HasNext }}
+        <div class="next">
+          <a href="{{ $paginator.Next.URL }}">
+            {{ with .Site.Params.olderPosts }}{{ . }}{{ else }}{{ i18n "postsOlder" }}{{ end }}
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

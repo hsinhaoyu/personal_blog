@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <div id="single">
+    {{ range .Pages.ByDate.Reverse }}
+
+      <div class="content">
+        {{/* --- Meta (date + tags) --- */}}
+        <div class="meta">
+          <span class="date">{{ .Date.Format "2006-01-02" }}</span>
+
+          {{ with .Params.tags }}
+            <span class="tags">
+              {{ range . }}
+                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+              {{ end }}
+            </span>
+          {{ end }}
+        </div>
+
+        {{/* --- Full content without title --- */}}
+        {{ .Content }}
+      </div>
+
+    {{ end }}
+  </div>
+{{ end }}
