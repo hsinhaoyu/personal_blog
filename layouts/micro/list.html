@@ -1,25 +1,47 @@
 {{ define "main" }}
   <div id="single">
-    {{ range .Pages.ByDate.Reverse }}
 
+    {{/* Create a paginator for the notes section */}}
+    {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+
+    {{ range $paginator.Pages }}
       <div class="content">
-        {{/* --- Meta (date + tags) --- */}}
         <div class="meta">
           <span class="date">{{ .Date.Format "2006-01-02" }}</span>
 
           {{ with .Params.tags }}
             <span class="tags">
               {{ range . }}
-                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">#{{ . }}</a>
               {{ end }}
             </span>
           {{ end }}
         </div>
 
-        {{/* --- Full content without title --- */}}
         {{ .Content }}
       </div>
 
     {{ end }}
+
+
+    {{/* Pagination links styled like the theme */}}
+    <div class="pagination">
+      {{ if $paginator.HasPrev }}
+        <div class="pre">
+          <a href="{{ $paginator.Prev.URL }}">
+            {{ i18n "postsNewer" }}
+          </a>
+        </div>
+      {{ end }}
+
+      {{ if $paginator.HasNext }}
+        <div class="next">
+          <a href="{{ $paginator.Next.URL }}">
+            {{ i18n "postsOlder" }}
+          </a>
+        </div>
+      {{ end }}
+    </div>
+
   </div>
 {{ end }}
