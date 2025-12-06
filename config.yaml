@@ -1,7 +1,6 @@
 baseURL: https://personal.hhyu.org/
 languageCode: en-us
 title: Hsin-Hao Yu's Personal Blog
-theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
 defaultContentLanguage: en
@@ -13,7 +12,12 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 5
+pagination:
+  pagerSize: 5
+
+module:
+  imports:
+    - path: github.com/nodejh/hugo-theme-mini
 
 # Hugo Configure Markup
 # More info: https://gohugo.io/getting-started/configuration-markup#
@@ -31,12 +35,12 @@ markup:
       unsafe: true
 
 # Social links in footer, support github,twitter,stackoverflow,facebook
-social:
-  # e.g.
-  #github: your-github-link
-  #twitter: your-twitter-link
-  #stackoverflow: your-stackoverflow-link
-  # facebook: your-facebook-link
+#social:
+#  # e.g.
+#  #github: your-github-link
+#  #twitter: your-twitter-link
+#  #stackoverflow: your-stackoverflow-link
+#  # facebook: your-facebook-link
 
 
 # Site parameters
