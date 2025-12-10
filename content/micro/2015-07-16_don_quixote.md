@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Done Quixote quote"
 date: 2015-07-16
 draft: false
 tags: ["quote", "Don Quixote", "book"]

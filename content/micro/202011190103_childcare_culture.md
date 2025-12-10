@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Culture in the childcare"
 date: 2020-11-19T01:03:30+11:00
 draft: false
 tags: ["parenting", "language"]

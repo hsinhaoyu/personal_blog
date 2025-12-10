@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Notetaking"
 date: 2021-01-05T16:04:13+11:00
 draft: false
 tags: ["book", "emacs", "Umberto Eco"]

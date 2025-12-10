@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Penn & Teller quote"
 date: 2023-10-01T16:46:35+11:00
 draft: false
 tags: ["magic", "jazz"]

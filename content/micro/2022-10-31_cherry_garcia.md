@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Cherry Garcia"
 date: 2022-10-31T20:10:37+11:00
 draft: false
 tags: ["joke"]

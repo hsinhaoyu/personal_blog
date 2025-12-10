@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Idea for a short story"
 date: 2020-10-24T01:17:25+11:00
 draft: false
 tags: ["story", "scifi"]

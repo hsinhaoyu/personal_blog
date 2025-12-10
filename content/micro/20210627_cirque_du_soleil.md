@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: O"
 date: 2021-06-27
 draft: false
 tags: ["parenting"]

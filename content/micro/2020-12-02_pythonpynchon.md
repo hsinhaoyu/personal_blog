@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Python joke"
 date: 2020-12-02T00:54:56+11:00
 draft: false
 tags: ["joke", "programming", "Thomas Pynchon"]

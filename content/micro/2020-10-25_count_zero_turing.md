@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: William Gibson quote"
 date: 2020-12-25T12:10:22+11:00
 draft: false
 tags: ["book", "quote", "scifi"]

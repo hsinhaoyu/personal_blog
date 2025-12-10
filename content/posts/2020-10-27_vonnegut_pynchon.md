@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Novelists in Corporate America"
 date: 2020-10-27T01:13:36+11:00
 draft: false
 tags: ["book", "Thomas Pynchon"]

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Umberto Eco quote"
 date: 2020-12-10T12:55:01+11:00
 draft: false
 tags: ["book", "quote", "Umberto Eco"]

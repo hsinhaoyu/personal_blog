@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Guitar Diary"
 date: 2023-10-04T10:19:13+11:00
 draft: false
 tags: ["guitar-learning", "jazz", "psychology", "music theory", "Bill Frisell"]

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Count Zero"
 date: 2020-12-29T12:18:27+11:00
 draft: false
 tags: ["book", "review", "scifi"]

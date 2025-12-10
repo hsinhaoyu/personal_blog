@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Generalisation in language"
 date: 2020-11-21T18:36:23+11:00
 draft: false
 tags: ["language", "parenting"]

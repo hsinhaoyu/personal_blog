@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Hemingway productivity tip"
 date: 2018-08-19T23:26:05+10:00
 draft: False
 tags: ["book"]

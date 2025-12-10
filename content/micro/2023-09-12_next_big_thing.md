@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: The NeXT Big Thing"
 date: 2023-09-12T22:37:08+10:00
 draft: false
 tags: ["book", "history"]

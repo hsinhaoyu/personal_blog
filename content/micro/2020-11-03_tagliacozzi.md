@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: Tagliacozzi"
 date: 2020-11-03T23:32:45+11:00
 draft: false
 tags: ["travel", "book", "history", "Thomas Pynchon"]

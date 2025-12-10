@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Guitar Diary: The Bill Frisell Anthology"
 date: 2023-09-13T08:42:16+10:00
-draft: true
+draft: false
 tags: ["guitar-learning", "music", "book"]
 ---
 Many years ago, I got myself _Bill Frisell: An Anthology_ - a collection of music written by guitarist Bill Frisell. I can't really read music, so to me, it had been a coded book, which I keep in my collection as an object of curiosity. But there is something fascinating about it that even a non-musician can feel. It just seems ... _profound_. What amazes me about Bill Frisell's written music is that each piece is just a couple of pages of simple notes and chords. Many of them are so basic that they look like they belong in a children's piano book. I have a couple of other books of sheet music, but this is the only one that doesn't look scary. But somehow, the pages in this book can be _interpreted_ into extraordinary music. I get the sense that to Bill Frisell, the essence of a great piece of music is in the form of a folk song that anyone can sing and enjoy. It's the sense of zenful childlike innocence that I find so inspiring.

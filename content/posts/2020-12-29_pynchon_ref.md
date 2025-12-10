@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Books about hacking"
 date: 2023-09-22T08:38:55+10:00
 draft: false
 tags: ["book", "Thomas Pynchon"]

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Micro: The Bright Earth"
 date: 2020-11-01T23:23:13+11:00
 draft: false
 tags: ["book", "vision", "color", "art"]
