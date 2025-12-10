@@ -1,0 +1,2 @@
+- id: publishDateShort
+  translation: "{{ .Date.Format \"02 Jan 2006\" }}"
