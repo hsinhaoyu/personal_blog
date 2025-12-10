@@ -82,6 +82,15 @@ Likewise, McPhee's memoir _A House in Bali_ (1947) has a chapter titled Lotring,
 
 Having said that, the issue of cultural appropriation does not go away so easily.  I see several videos of McPhee's piano transcriptions performed in music halls as regular concert pieces, showing little if any awareness of the cultural context of the Balinese source.  This might be partially because the piano arrangements took away most of the otherworldliness of gamelan.  This can only be helped by actual gamelan performances outside Indonesia.
 
+## December 2025 Addendum
+
+After this post was published, I discovered that additional information about the piano transcription of _Gambangan_ can be found in Chapter 19 of Collin McPhee's academic book _Music in Bali_. In that chapter, McPhee transcribed two additional _Gambangans_ composed for the _Gong Kebyar_ ensemble (Ex. 337 and Ex. 338). Among the two, Ex. 337, performed by the Pliatan village, corresponds to the 1940 piano _Gambangan_.  He commented that 
+
+>Each arrangement differs in its own way from the _Gambangan_ of Lotring [...].  Both versions interpret the melody in a quiet, lyrical manner, with none of the tension and excitement which characterized the Lotring composition.
+
+While McPhee lived in Bali in the 1930s, he befriended [Madé Lebah](https://en.wikipedia.org/wiki/Madé_Lebah), the _kendang_ player of the Gamelan Gong Kebyar of the Pliatan village.  He might have transcribed this version of _Gambangan_ with the assistance of Madé.  The Pliatan gamelan was revived after WWII and toured the world in 1952, under the management of British impresario [John Coast](https://japaneseculturereflectionsblog.wordpress.com/2017/05/20/often-charming-often-frustrated-tale-of-an-impresario-in-rural-bali-and-the-larger-world-dancing-out-of-bali/). One can only imagine the feelings of McPhee when he heard _Gambangan_ performed in a New York concert hall after 14 years.  See the liner notes of the [Dancers of Bali: Gamelan of Peliatan, 1952](https://arbiterrecords.org/catalog/dancers-of-bali-gamelan-of-peliatan-1952/) album for more information.
+
+
 ## Notes
 
 [1] Interestingly, according to _Music in Bali_, Colin McPhee attended one of the concerts in New York and chatted with the Pliatan musicians.
