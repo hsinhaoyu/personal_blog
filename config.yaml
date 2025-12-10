@@ -79,7 +79,9 @@ params:
   # Extra links in navigation
   links:
     ## e.g.
-     - name: Micro
+     - name: Blog
+       path: /
+     - name: Microblog
        path: /micro
        weight: 10
 
