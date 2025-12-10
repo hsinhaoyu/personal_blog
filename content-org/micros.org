@@ -1,0 +1,31 @@
+#+hugo_base_dir: ../
+#+hugo_front_matter_format: yaml
+#+seq_todo: TODO DRAFT DONE
+#+options: author:nil
+#+startup: overview
+
+* Instructions
+=C-c C-e H H=
+=M-x hhyu-hugo-insert-post=
+=M-x hhyu-hugo-insert-image=
+=#+attr_html: :width 300px :class center=
+
+* Micros
+** DONE Micro: Which Hinton?
+CLOSED: [2025-12-10 Wed 21:20]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 202512102106_micro-which-hinton
+:EXPORT_HUGO_SECTION: micro
+:EXPORT_HUGO_TAGS: "Jorge Luis Borges" "math" 
+:EXPORT_DATE: CLOSED
+:END:
+In /Tlön, Uqbar, Orbis Tertius/, Borges discovered an important clue to toe secrets of /Tlön/ when he found a letter hidden in a book:
+
+#+begin_quote
+In March of 1941, a handwritten letter from Gunnar Erfjord was discovered in a book by Hinton that had belonged to Herbert Ashe.
+#+end_quote
+
+Gunnar Erfjord and Herber Ashe are both fictional characters who are members of the /Orbis Tertius/ secret society, but who is Hinton? Hinton is mentioned only once in the entire story, so he must be a historical figure. But which Hiton is so famous that he could be referred to just by the last name?
+
+Interestingly, it is the mathematician [[https://en.wikipedia.org/wiki/Charles_Howard_Hinton][Charles Howard Hintin]], whose fictional and non-fictional writings had inspired the public's interest in the fourth dimension. He was name-checked in two other stories by Borges (/The Secret Miracle/ and /There Are More Things/), and was mentioned by H.P. Lovecraft and Aleister Crowley.
+
