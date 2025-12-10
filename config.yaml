@@ -42,6 +42,9 @@ markup:
 #  #stackoverflow: your-stackoverflow-link
 #  # facebook: your-facebook-link
 
+# Set the length of the summary
+summaryLength: 100
+
 
 # Site parameters
 params:
