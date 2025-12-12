@@ -64,7 +64,7 @@ params:
   # To enable comments, you may need to set `disqusShortname`
   enableComments: false
   # To enable comments, you may need to set `googleAnalytics`
-  enableGoogleAnalytics: false
+  enableGoogleAnalytics: true
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: false
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
@@ -93,3 +93,7 @@ params:
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js
+
+services:
+  googleAnalytics:
+    ID: G-4550K2YFY5
