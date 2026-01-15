@@ -5,7 +5,7 @@ tags: ["Jorge Luis Borges", "math"]
 draft: false
 ---
 
-In _Tlön, Uqbar, Orbis Tertius_, Borges discovered an important clue to toe secrets of _Tlön_ when he found a letter hidden in a book:
+In _Tlön, Uqbar, Orbis Tertius_, Borges discovered an important clue about the secrets of _Tlön_ when he found a letter hidden in a book:
 
 > In March of 1941, a handwritten letter from Gunnar Erfjord was discovered in a book by Hinton that had belonged to Herbert Ashe.
 
