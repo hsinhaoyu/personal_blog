@@ -2,7 +2,7 @@
 title: "Thoughts on Spellcasting 101 by Steve Meretzky"
 date: 2026-01-31T11:30:43+11:00
 draft: false
-tags: ["puzzle", "game", "interactive fiction"]
+tags: ["puzzle", "game", "interactive fiction", "word play"]
 ---
 **Spoiler alert** This post is my thoughts on the puzzle design in Steve Meretzky's 1990 adventure game [Spellcasting 101: Sorcerers Get All the Girls](https://en.wikipedia.org/wiki/Spellcasting_101:_Sorcerers_Get_All_the_Girls).  It is **NOT** a spoiler-free review. If you haven't played the game, stop right here. It's a game worthy of playing, so you should enjoy it yourself. Reading further will absolutely spoil the fun for you. 
 
