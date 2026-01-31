@@ -15,23 +15,36 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - uses: actions/checkout@v3
+      # 1) Check out your repo (no submodules)
+      - uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: false
           lfs: false
-      - name: Build And Deploy
+
+      # 2) Install Hugo on the GitHub runner (avoids Oryx/GLIBC issues)
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.152.2"
+          extended: true
+
+      # 3) Build the site so that ./public exists
+      - name: Build site
+        run: hugo --minify
+
+      # 4) Deploy the already-built ./public folder to Azure Static Web Apps
+      #    and *skip* Oryx build (the part that was failing).
+      - name: Deploy to Azure Static Web Apps
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_GREEN_CLIFF_08D6F2C00 }}
-          repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
+          repo_token: ${{ secrets.GITHUB_TOKEN }} # PR comments/status
           action: "upload"
-          ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
-          # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "/" # App source code path
-          api_location: "" # Api source code path - optional
-          output_location: "public" # Built app content directory - optional
-          ###### End of Repository/Build Configurations ######
+          app_location: "/"            # repo root
+          api_location: ""             # no API
+          output_location: "public"    # Hugo output folder
+          skip_app_build: true         # IMPORTANT: bypass Oryx build
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
