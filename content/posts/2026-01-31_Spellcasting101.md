@@ -53,9 +53,9 @@ It's an accessible, fun little game. It's not Meretzky's best, but there are som
 
 ## Additional thoughts on The Island where Time Runs Backwards
 
-I didn't mention that on this island, we are suddenly in a movie shoot. So it's not like we _actually_ get somebody pregant. It's just the plot of a movie. Why is the director shooting a movie on an island where time runs backwards? It's a very abrupt change of point of view with no explanation. Why did Meretzsky do this?
+I didn't mention that on this island, we are suddenly in a movie shoot. So it's not like we _actually_ got somebody pregnant. It's just the plot of a movie. Why is the director shooting a movie on an island where time runs backwards? It's a very abrupt change of point of view with no explanation. 
 
-On this island, there is only one correct action for every turn. Any deviation leads to the end of the game. It would be much more interesting if multiple actions are allowed, but then why are you making decisions for actions that have already been taken? Maybe this movie shoot was put in there to justify the design decision to allow only one possile sequence of event? Time travel is hard. 
+On this island, there is only one correct action for every turn. Any deviation leads to the end of the game. It would be much more interesting if multiple actions are allowed, but then, why are we making decisions for actions that have already been taken? Maybe this movie shoot was put in there to justify the design decision to allow only one possible sequence of event? Time travel is hard in game design.
 
 
 
