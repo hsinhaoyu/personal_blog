@@ -41,3 +41,14 @@ Why so much interest in the longitude in the 1990’s?
 - The Island of the Day Before (Umberto Eco, 1994): A novel set in the middle 17th century, when European started to tackle the problem of measuring longitude at sea. 
 - Longitude (Dava Sobel, 1995): A non-fictional book about the history of the longitude problem.
 - Mason & Dixon (Thomas Pynchon, 1997): A novel with numerous references to the longitude problem, set at a time when the problem was just solved (about 100 years after Eco’s novel)
+** DONE Micro: The meaning of percussion
+CLOSED: [2026-03-09 Mon 18:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 202603091803_micro-the-meaning-of-percussion
+:EXPORT_HUGO_SECTION: micro
+:EXPORT_HUGO_TAGS: "music" "gamelan" 
+:EXPORT_DATE: CLOSED
+:END:
+I love [[https://www.youtube.com/watch?v=-lkAOZC1w3g][this]] lecture by UCSD's music professor Steven Schick about percussion music.  He said that in music, the suffix /ist/ is focused on the object that is played. For example, in the word /pianist/, the focus is on the piano.  The term /percussionis/, however, is not centered on an instrument. Rather, it is centered on what the musician does. The German word for percussion /schlagzeug/ defines the music perfectly: /schlag/ means to "strike" and /zeug/ means "stuff". That's what percussionists do: they strike stuff.
+
+Interestingly I recently the word /gamelan/ also refers to an action. The word is derived from the Javanese word /gamel/, which means "to handle". The same word also refers to a type of hammer. So the word /gamelan/ is also related to the act of hitting the instrument with a mallet.
