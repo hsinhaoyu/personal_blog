@@ -19,3 +19,7 @@ For my professional site, go to [hhyu.org](https://hhyu.org).
 - Spellcasting 101: Sorcerers Get All the Girls (Steve Meretzky, Legend Entertainment, 1990) [[notes](https://personal.hhyu.org/posts/thoughts-on-spellcasting-101-by-steve-meretzky/)]
 - Myst (1993 original, 2014 Masterpiece Edition, 2020 Nintendo Switch)
 
+## Movies watched
+**2026**
+- Eraserhead (David Lynch, 1977)
+
