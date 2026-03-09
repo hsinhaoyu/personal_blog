@@ -28,4 +28,16 @@ In March of 1941, a handwritten letter from Gunnar Erfjord was discovered in a b
 Gunnar Erfjord and Herber Ashe are both fictional characters who are members of the /Orbis Tertius/ secret society, but who is Hinton? Hinton is mentioned only once in the entire story, so he must be a historical figure. But which Hiton is so famous that he could be referred to just by the last name?
 
 Interestingly, it is the mathematician [[https://en.wikipedia.org/wiki/Charles_Howard_Hinton][Charles Howard Hintin]], whose fictional and non-fictional writings had inspired the public's interest in the fourth dimension. He was name-checked in two other stories by Borges (/The Secret Miracle/ and /There Are More Things/), and was mentioned by H.P. Lovecraft and Aleister Crowley.
+** DONE Micro: Why so much interest in the longitude in the 1990's?
+CLOSED: [2026-03-09 Mon 17:59]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 202603091756_micro-why-so-much-interest-in-the-longitude-in-the-1990-s
+:EXPORT_HUGO_SECTION: micro
+:EXPORT_HUGO_TAGS: "Thomas Pynchon" "Umberto Eco" "book" "Science"
+:EXPORT_DATE: CLOSED
+:END:
+Why so much interest in the longitude in the 1990’s?
 
+- The Island of the Day Before (Umberto Eco, 1994): A novel set in the middle 17th century, when European started to tackle the problem of measuring longitude at sea. 
+- Longitude (Dava Sobel, 1995): A non-fictional book about the history of the longitude problem.
+- Mason & Dixon (Thomas Pynchon, 1997): A novel with numerous references to the longitude problem, set at a time when the problem was just solved (about 100 years after Eco’s novel)
