@@ -21,5 +21,6 @@ For my professional site, go to [hhyu.org](https://hhyu.org).
 
 ## Movies watched
 **2026**
+- [Zappa](https://en.wikipedia.org/wiki/Zappa_(2020_film)) (Alex Winter, 2020)
 - Eraserhead (David Lynch, 1977)
 
