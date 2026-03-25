@@ -8,6 +8,7 @@ For my professional site, go to [hhyu.org](https://hhyu.org).
 ## Books read
 
 **2026**
+- [The Island of the Day Before](https://en.wikipedia.org/wiki/The_Island_of_the_Day_Before) (re-read; Umberto Eco, 1994)
 - [Ranma 1/2](https://en.wikipedia.org/wiki/Ranma_%C2%BD) (Manga series by Rumiko Takahashi, 1987-1996)
 - [The Hollow Man ](https://en.wikipedia.org/wiki/The_Hollow_Man_(Carr_novel)) (John Dickson Carr, 1935)
 - [Shadow Ticket](https://en.wikipedia.org/wiki/Shadow_Ticket) (Thomas Pynchon, 2025)
