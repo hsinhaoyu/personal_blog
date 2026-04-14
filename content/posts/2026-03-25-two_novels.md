@@ -4,7 +4,7 @@ date: 2026-04-14T11:15:13+00:00
 draft: false
 tags: ["book", "thomas pynchon", "history", "umberto eco", "science", "optics", "Australiana", "Jorge Luis Borges"]
 ---
-In the 1994 novel [_The Island of the Day Before_](https://en.wikipedia.org/wiki/The_Island_of_the_Day_Before) by Umberto Eco, a modern editor studied fragmented manuscripts of uncertain origin (possibly recovered by [Abel Tasman](https://en.wikipedia.org/wiki/Abel_Tasman) in his 1642 expedition of the Southern Pacific) and attempted to reconstruct the history of a 17th century Italian nobleman stranded on a mysterious deserted ship. The nobleman was likely a spy of Cardinal Mazarin — and, remarkably, may have spotted a [quokka](https://en.wikipedia.org/wiki/Quokka) on what is now [Rottnest Island](https://en.wikipedia.org/wiki/Rottnest_Island), Western Australia, decades before the Dutch explorer Willem de Vlamingh made landfall there.
+In the 1994 novel [_The Island of the Day Before_](https://en.wikipedia.org/wiki/The_Island_of_the_Day_Before) by Umberto Eco, a modern editor studied fragmented manuscripts of uncertain origin (possibly recovered by [Abel Tasman](https://en.wikipedia.org/wiki/Abel_Tasman) in his 1642 expedition of the South Pacific) and attempted to reconstruct the history of a 17th century Italian nobleman stranded on a mysterious deserted ship. The nobleman was likely a spy of Cardinal Mazarin — and, remarkably, may have spotted a [quokka](https://en.wikipedia.org/wiki/Quokka) on what is now [Rottnest Island](https://en.wikipedia.org/wiki/Rottnest_Island), Western Australia, decades before the Dutch explorer Willem de Vlamingh made landfall there.
 
 The other novel is [_Mason & Dixon_](https://en.wikipedia.org/wiki/Mason_%26_Dixon), published in the same decade. In it, a clergyman of questionable denomination was stranded at his sister’s house in 18th-century Philadelphia over Christmas and resorted to telling tall tales to entertain the unruly children — and occasionally the adults.  He did this by recounting the history of the two British astronomers who charted the boundary between Pennsylvania and Maryland in colonial America. The good Father might or might not have been a member of Mason and Dixon's legendary 1763–1767 expedition and most certainly had fabricated a lot of his stories. 
 
@@ -57,7 +57,7 @@ Fast-forward to the days of _Mason & Dixon_, and the nature of time continues to
 	align="center"
 >}}
 
-The image above is the 1648 world map _Nova et Accuratissima Terrarum Orbis Tabula_ by Dutch cartographer Joan Blaeu.  In the age of GPS and Google Earth, it's difficult for us to imagine a time when the geography of the world was so uncertain: the shapes of the continents were imprecise, California was depicted as an island, and the Southern Hemisphere was mostly uncharted. A major character in _The Island of the Day Before_ was on a quest to find the mythical Island of Solomon in the Southern Pacific, which was believed to be first identified by the Spanish explorer [Álvaro de Mendaña](https://en.wikipedia.org/wiki/Álvaro_de_Mendaña_de_Neira) in the 16th century [^4].
+The image above is the 1648 world map _Nova et Accuratissima Terrarum Orbis Tabula_ by Dutch cartographer Joan Blaeu.  In the age of GPS and Google Earth, it's difficult for us to imagine a time when the geography of the world was so uncertain: the shapes of the continents were imprecise, California was depicted as an island, and the Southern Hemisphere was mostly uncharted. A major character in _The Island of the Day Before_ was on a quest to find the mythical Island of Solomon in the South Pacific, which was believed to be first identified by the Spanish explorer [Álvaro de Mendaña](https://en.wikipedia.org/wiki/Álvaro_de_Mendaña_de_Neira) in the 16th century [^4].
 
 However, the uncertainty would be gradually reduced by scientific measurements.  Umberto Eco's novel mentioned that Jesuit missionaries (e.g., [Giulio Alenio](https://en.wikipedia.org/wiki/Giulio_Alenio) and [Charles Spinola](https://en.wikipedia.org/wiki/Charles_Spinola)) recorded the hours of the 1612 lunar eclipse at different locations, and used the data to estimate the relative longitude of Macau and Nagasaki, thus improving the mapping of Asia.
 
@@ -130,7 +130,7 @@ Of course, these are the traits of postmodern literature. What makes them especi
 
 [^3]: See _The Book of Legendary Lands_ by Umberto Eco (2013).
 
-[^4]: See _The Book of Legendary Lands_ by Umberto Eco (2013) for the exploration of the Southern Pacific.
+[^4]: See _The Book of Legendary Lands_ by Umberto Eco (2013) for the exploration of the South Pacific.
 
 [^5]: The novel describes how Mason and Dixon used the Equal Altitude method to determine the true north. The main instruments in the survey of the Mason-Dixon line were the [Transit and Equal Altitude Instrument](https://americanhistory.si.edu/collections/object/nmah_758993) and the [Zenith Sector](https://www.rmg.co.uk/collections/objects/rmgc-object-11156). The original instruments are apparently [being restored](https://www.osls.org/news/205246/Mason--Dixons-original-instrument-being-restored.htm).
 
