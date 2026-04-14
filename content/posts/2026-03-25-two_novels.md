@@ -1,7 +1,7 @@
 ---
 title: "Two postmodern novels about early modern science"
-date: 2026-03-25T22:28:23+11:00
-draft: true
+date: 2026-04-14T11:15:13+00:00
+draft: false
 tags: ["book", "thomas pynchon", "history", "umberto eco", "science", "optics", "Australiana", "Jorge Luis Borges"]
 ---
 In the 1994 novel [_The Island of the Day Before_](https://en.wikipedia.org/wiki/The_Island_of_the_Day_Before) by Umberto Eco, a modern editor studied fragmented manuscripts of uncertain origin (possibly recovered by [Abel Tasman](https://en.wikipedia.org/wiki/Abel_Tasman) in his 1642 expedition of the Southern Pacific) and attempted to reconstruct the history of a 17th century Italian nobleman stranded on a mysterious deserted ship. The nobleman was likely a spy of Cardinal Mazarin — and, remarkably, may have spotted a [quokka](https://en.wikipedia.org/wiki/Quokka) on what is now [Rottnest Island](https://en.wikipedia.org/wiki/Rottnest_Island), Western Australia, decades before the Dutch explorer Willem de Vlamingh made landfall there.
