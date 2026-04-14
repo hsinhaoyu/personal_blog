@@ -17,7 +17,17 @@ In this post, I will summarise the historical and conceptual background of some 
 # The romance of observational astronomy
 There is a romantic and visceral excitement associated with stargazing. The technical complexity, however, seems to have deterred novelists from depicting it in literature. What I find so interesting about the two novels is that they go into loving details about the intricate apparatus and procedures used in early modern science, and both manage to capture the magic of reading the night sky.
 
+<figure>
+  {{< youtube awinZPVEMTI >}}
+  <figcaption>This video shows one of Jupiter's moons moving behind Jupiter</figcaption>
+</figure>
+
 In _The Island of the Day Before_, the protagonist assisted an eccentric Jesuit Father[^1] in an observation of the eclipse of Jupiter's moons — about 30 years after their discovery by Galileo Galilei. Galileo himself had invented an instrument called [Celatone](https://en.wikipedia.org/wiki/Celatone) for making precise measurements of these events, but the apparatus used by this Jesuit in the novel was a Rube Goldberg contraption that reads like a parody of the complicated machines of the Baroque era. The observer wears Galileo's Celatone — a headpiece with a telescope protruding from it — while sitting in a chair floating in a tub of oil. The assistant uses a clock and a pendulum-driven gizmo to record the time of eclipse at the resolution of seconds. Stability is the key here: the purpose of the oil tub is to keep the observer stationary at sea. But of course, this primitive suspension system was not practical in reality. Just as the Father saw one of Jupiter's moons disappearing into the shadow of the planet, he lost balance, soaked himself in oil and shattered the telescope. What's the purpose of this observation? It's all about longitude. We'll learn more about it in the next section.
+
+<figure>
+  {{< youtube oI7gSsha3-0 >}}
+  <figcaption>This video shows the transit of Venus in 2004</figcaption>
+</figure>
 
 In _Mason & Dixon_, entire chapters are devoted to the observation of the [transit of Venus](https://en.wikipedia.org/wiki/Transit_of_Venus) — a rare astronomical event where a black disk (Venus) is seen moving across the sun. Early in the 18th century, Edmund Halley pointed out that the observed duration of the transit was dependent on the latitude of the observer.  He reasoned that if astronomers across the globe recorded the same transit, the data could be used to accurately estimate the distance between the Earth and the Sun — and from that, the scale of the entire solar system.  This was why the Royal Society sent Mason and Dixon to the Cape of Good Hope in South Africa (then a Dutch colony) to observe the 1761 transit of Venus.  It was their first adventure together.  Although Mason and Dixon successfully accomplished their mission, other astronomers who participated in this project encountered numerous problems, and the measurement had to be repeated 8 years later — after Mason and Dixon's land survey in America.  The two astronomers did not observe the 1769 transit together — Mason went to Ireland while Dixon observed from Norway — and their diverging paths in those years became the backbone of later chapters of Pynchon’s novel.
 
