@@ -15,7 +15,7 @@ Publish the blog post. If $ARGUMENTS names a specific file or slug, use that. Ot
 
 2. **Read the file** to confirm it is the right post (show the title to the user).
 
-3. **Check and fix the filename.** The file must be named `YYYY-MM-DD_slug.md` (e.g. `2021-02-03_my-post.md`). Check whether the current filename matches that pattern (starts with a date in `YYYY-MM-DD` format followed by `_`).
+3. **Check and fix the filename.** The file must be named `YYYY-MM-DD-slug.md` (e.g. `2021-02-03-my-post.md`). Check whether the current filename matches that pattern (starts with a date in `YYYY-MM-DD` format followed by `-`).
    - If it does NOT match, derive the date portion from the frontmatter `date:` field (or use today's date if none is set), and derive the slug from the existing filename (strip any leading date-like prefix, strip the `.md` extension, lowercase, replace spaces with hyphens). Rename the file with `mv` to the new name. Use the new path for all subsequent steps.
 
 4. **Update the frontmatter** using the Edit tool:
