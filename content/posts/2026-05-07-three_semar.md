@@ -1,5 +1,5 @@
 ---
-title: "The stories of 3 gamelans"
+title: "The stories of three gamelans"
 date: 2026-05-09T13:20:14+00:00
 draft: false
 tags: ["gamelan", "history"]
@@ -48,6 +48,11 @@ This album is an excellent showcase of Pliatan musicianship, but keep in mind th
 ## Stories told by instruments
 
 In this article I've focused mostly on the instruments, because in Balinese gamelan, instruments in an orchestra are built as an inseparable set. The tuning of each orchestra is different, so the instruments are as unique as the musicians that play them.  Tracing the lineage of the instruments helps the listeners connect with the historical moments where the art has evolved from.
+
+## Sources
+
+- For _Bali 1928_ and _Bali: Gamelan Semar Pegulingan — Gamelan of the Love God_, see the [liner notes](https://edwardherbst.net/wp-content/uploads/2016/06/Bali%201928%20vol%20III%20Lotring%20and%20the%20Sources%20of%20Gamelan%20Tradition%20Herbst.pdf) by Edward Herbst.
+- For _Gamelan Semar Pegulingan Saih Pitu — The Heavenly Orchestra of Bali_, see the [article](https://asia-archive.si.edu/essays/article-yamin/) by Tyler Yamin.
 
 
 [^1]: Peliatan was not attacked by the Dutch because the kingdom of Gianyar ceded its sovereignty to the Netherlands in 1900.  Even so, the royal palace was unable to maintain a semar pegulingan orchestra, so the instruments were loaned to a legong dance club.
