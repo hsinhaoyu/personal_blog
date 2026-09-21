@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo on Hsin-Hao Yu&#39;s Personal Blog</title>
+    <link>https://personal.hhyu.org/tags/photo/</link>
+    <description>Recent content in Photo on Hsin-Hao Yu&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2017 23:45:36 +1100</lastBuildDate>
+    <atom:link href="https://personal.hhyu.org/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro: Stereoscopic photography on the cheap</title>
+      <link>https://personal.hhyu.org/micro/201711102345_2ds/</link>
+      <pubDate>Fri, 10 Nov 2017 23:45:36 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/201711102345_2ds/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://personal.hhyu.org/old_blog_images/2ds.png&#34; width=&#34;350px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I received a Nintendo 2DS as a gift. The 2DS is a downgraded version of the Nintendo 3DS handheld game console. To cut price (2DS retails at about $150 AUD), Nintendo removed the 3D display but interestingly it still has a pair of front facing cameras. The photos are saved into the .MPO format, and can be loaded and processed by many programs running on computers. I used the XstereO Player on a Macbook Pro to create the Red/green stereogram.&lt;/p&gt;&#xA;&lt;p&gt;The cameras are only in VGA resolution (640x480). The results are certainly not stunning but they probably can be used for education and home hacking. I find the stereo effect quite convincing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Micro: Elm</title>
+      <link>https://personal.hhyu.org/micro/201711101920_elm/</link>
+      <pubDate>Fri, 10 Nov 2017 19:20:53 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/201711101920_elm/</guid>
+      <description>&lt;p&gt;Have I neglected the backyard garden &lt;em&gt;this much&lt;/em&gt; in the last few weeks? This morning when I opened the backdoor, I was surprised to see the grounds covered by mysterious coin-shaped objects. They were clearly seeds — seeds wearing papery, gossamer skirts. Sure, I have seen them before, but not so many all at once.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://personal.hhyu.org/old_blog_images/elm_1.png&#34; width=&#34;500px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;They parachuted from my neighbor’s golden elm tree - an elm native to northern America. These seeds grow in densely-packed clusters. When the wind blows, some of them break free from the cluster, and tumble down to the ground in complicated spiral trajectories, rolling and whirling as they glide in the air. The skirts, which are mostly flat except for two gentle twists at the tip, are responsible for the complex aerodynamics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

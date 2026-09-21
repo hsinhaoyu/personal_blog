@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Hsin-Hao Yu&#39;s Personal Blog</title>
+    <link>https://personal.hhyu.org/tags/ai/</link>
+    <description>Recent content in AI on Hsin-Hao Yu&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2026 20:46:00 +1000</lastBuildDate>
+    <atom:link href="https://personal.hhyu.org/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro: Why did AI make this mistake?</title>
+      <link>https://personal.hhyu.org/micro/202605252019_micro-why-did-ai-make-this-mistake/</link>
+      <pubDate>Mon, 25 May 2026 20:46:00 +1000</pubDate>
+      <guid>https://personal.hhyu.org/micro/202605252019_micro-why-did-ai-make-this-mistake/</guid>
+      <description>&lt;p&gt;According to a certain AI service, the 1900 Paris Expo (i.e. &lt;a href=&#34;https://en.wikipedia.org/wiki/Exposition_Universelle_%281900%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exposition Universelle&lt;/a&gt;) featured gamelans from Surakarta (central Java) and &lt;em&gt;Bali&lt;/em&gt;.  That sounded very unlikely, because the first Balinese gamelan performance in Europe, I read, was by &lt;span class=&#34;underline&#34;&gt;Gunung Sari of Peliatan&lt;/span&gt; in the 1931 &lt;a href=&#34;https://en.wikipedia.org/wiki/Paris_Colonial_Exposition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paris Colonial Exposition&lt;/a&gt;.  Where did the AI get the idea from? One possibility is that Judith Gautier, the 19th century Parisian writer, wrote that the gamelan musicians who graced the 1900 Paris Expo were from &amp;ldquo;Solo, Bali&amp;rdquo;.  That was clearly an error, but now it might find its way into someone&amp;rsquo;s homework.  Interestingly, that performance was attended by Olivier Messiaen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

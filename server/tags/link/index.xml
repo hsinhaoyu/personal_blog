@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Link on Hsin-Hao Yu&#39;s Personal Blog</title>
+    <link>https://personal.hhyu.org/tags/link/</link>
+    <description>Recent content in Link on Hsin-Hao Yu&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2017 19:03:00 +1100</lastBuildDate>
+    <atom:link href="https://personal.hhyu.org/tags/link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro: Star Gauge</title>
+      <link>https://personal.hhyu.org/micro/201711101903_word_puzzle/</link>
+      <pubDate>Fri, 10 Nov 2017 19:03:00 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/201711101903_word_puzzle/</guid>
+      <description>&lt;p&gt;A friend told me about Su Hui&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Star_Gauge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Star Gauge&lt;/a&gt;. It is is a matrix poem composed in the 4th century by the Chinese poetess Su Hui. The characters are arranged in a 29x29 matrix. The submatrices can be read in different directions, producing (apparently) 3000 poems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

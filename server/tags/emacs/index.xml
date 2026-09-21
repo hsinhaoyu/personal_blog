@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Hsin-Hao Yu&#39;s Personal Blog</title>
+    <link>https://personal.hhyu.org/tags/emacs/</link>
+    <description>Recent content in Emacs on Hsin-Hao Yu&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2021 16:04:13 +1100</lastBuildDate>
+    <atom:link href="https://personal.hhyu.org/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro: Notetaking</title>
+      <link>https://personal.hhyu.org/micro/2021-01-05_eco_notetaking/</link>
+      <pubDate>Tue, 05 Jan 2021 16:04:13 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/2021-01-05_eco_notetaking/</guid>
+      <description>&lt;p&gt;I was reading about the Emacs &lt;a href=&#34;https://www.orgroam.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;org-roam mode&lt;/a&gt;, and came across the &lt;a href=&#34;https://en.wikipedia.org/wiki/Zettelkasten?wprov=sfti1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zettelkasten method&lt;/a&gt; of notetaking. I hadn’t seen this term before, but the idea of taking notes with cross-referenced index cards sounded familiar. Where did I read about it? Ah yes&amp;hellip; in Umberto Eco’s &lt;em&gt;Foucault’s Pendulum&lt;/em&gt;, the main character Casaubon (an ex-academic who  makes a living as a “detective of knowledge”) uses boxes of index cards to keep track of ideas. I wouldn’t be surprised that Eco himself did this religiously. He apparently &lt;a href=&#34;http://www.dansheffler.com/blog/2015-08-10-reading-notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recommended it &lt;/a&gt; to PhD students.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -11,6 +11,20 @@
 =#+attr_html: :width 300px :class center=
 
 * Micros
+** DONE Micro: The use of mirrors in the game of chess
+CLOSED: [2026-09-21 Mon 10:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 202609211007_mirrors
+:EXPORT_HUGO_SECTION: micro
+:EXPORT_HUGO_TAGS: "Umberto Eco" "Jorge Luis Borges" "book"
+:EXPORT_DATE: CLOSED
+:END:
+Umberto Eco’s novel /The Name of the Rose/ opens with a Preface, in which Eco claimed that the novel was his translation of a 14th century manuscript written by a monk named Adso. Eco wrote that despite years of research, he failed to establish the authenticity of the manuscript. However, he found vague references to Adso’s manuscript in several obscure places.
+
+One of the books he encountered in his investigations was a “Castilian version of a little work by Milo Temesvar, /On the Use of Mirrors in the Game of Chess/.”  This Preface is clearly an homage to Jorge Luis Borges and Don Quixote. /On the Use of Mirrors in the Game of Chess/ is an evocative title for a fake book. What can this book possibly be about?
+
+Interestingly, people have invented chess variants involving mirrors (metaphorical ones, of course). For example, in a chess variant called [[https://www.chessvariants.com/rules/house-of-mirrors-chess][House of Mirrors Chess]], a physical chess piece can project mirror images on the board, and these virtual pieces can be captured by the opponents virtual or physical pieces.
+
 ** DONE Micro: Which Hinton?
 CLOSED: [2025-12-10 Wed 21:20]
 :PROPERTIES:

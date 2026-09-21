@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Hsin-Hao Yu&#39;s Personal Blog</title>
+    <link>https://personal.hhyu.org/tags/math/</link>
+    <description>Recent content in Math on Hsin-Hao Yu&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2025 21:20:00 +1100</lastBuildDate>
+    <atom:link href="https://personal.hhyu.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro: Which Hinton?</title>
+      <link>https://personal.hhyu.org/micro/202512102106_micro-which-hinton/</link>
+      <pubDate>Wed, 10 Dec 2025 21:20:00 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/202512102106_micro-which-hinton/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Tlön, Uqbar, Orbis Tertius&lt;/em&gt;, Borges discovered an important clue about the secrets of &lt;em&gt;Tlön&lt;/em&gt; when he found a letter hidden in a book:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In March of 1941, a handwritten letter from Gunnar Erfjord was discovered in a book by Hinton that had belonged to Herbert Ashe.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Gunnar Erfjord and Herber Ashe are both fictional characters who are members of the &lt;em&gt;Orbis Tertius&lt;/em&gt; secret society, but who is Hinton? Hinton is mentioned only once in the entire story, so he must be a historical figure. But which Hiton is so famous that he could be referred to just by the last name?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Micro: Feynman trick</title>
+      <link>https://personal.hhyu.org/micro/2020-10-27_feynmann/</link>
+      <pubDate>Tue, 27 Oct 2020 01:23:12 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/2020-10-27_feynmann/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/cantors-paradise/richard-feynmans-integral-trick-e7afae85e25c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Feynman’s Integral Trick&lt;/a&gt;: I remember that in &lt;em&gt;Surely You Are Joking, Mr. Feynman&lt;/em&gt;, Feynman talked about an obscure trick for doing integrals. What was he talking about? This article explains it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Micro: p-adics</title>
+      <link>https://personal.hhyu.org/micro/2020-10-23_p_adics/</link>
+      <pubDate>Fri, 23 Oct 2020 01:09:58 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/2020-10-23_p_adics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.quantamagazine.org/how-the-towering-p-adic-numbers-work-20201019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Infinite Universe of Number Systems&lt;/a&gt; - The p-adics seem to be a fanciful formalism of numbers. What’s interesting about it is that it provides a way to study an entire university of number systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Micro: Borges joke</title>
+      <link>https://personal.hhyu.org/micro/2018-04-20_borges/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://personal.hhyu.org/micro/2018-04-20_borges/</guid>
+      <description>&lt;p&gt;A parody of Jorge Luis Borges&amp;rsquo;s essay &amp;ldquo;A New Refutation of Time&amp;rdquo;: &amp;ldquo;The Third Refutation of Ordinality&amp;rdquo;. Or maybe &amp;ldquo;10 Arguments Against Cardinality&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

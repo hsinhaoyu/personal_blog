@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroscience on Hsin-Hao Yu&#39;s Personal Blog</title>
+    <link>https://personal.hhyu.org/tags/neuroscience/</link>
+    <description>Recent content in Neuroscience on Hsin-Hao Yu&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2024 20:02:10 +1100</lastBuildDate>
+    <atom:link href="https://personal.hhyu.org/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro: Studio with Cajal</title>
+      <link>https://personal.hhyu.org/micro/20240310_studio_with_cajal/</link>
+      <pubDate>Sun, 10 Mar 2024 20:02:10 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/20240310_studio_with_cajal/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://personal.hhyu.org/old_blog_images/cajal_studio.png&#34; width=&#34;600px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Micro: optometrist</title>
+      <link>https://personal.hhyu.org/micro/2017-12-14_retina/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://personal.hhyu.org/micro/2017-12-14_retina/</guid>
+      <description>&lt;p&gt;Last week I went to see an optometrist. As he examined my eye with a strong light, I was amazed that I saw an image of the blood vessels on the retina. This phenomenon is called the entoptic image. It was first described by Purkinje about 200 years ago. I read about it in “How we perceive our own retina” by Kuno Kirschfeld (published in Proc. Bio. Sci.)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Micro: Visual Cortex</title>
+      <link>https://personal.hhyu.org/micro/202410300000_visual_cortex/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://personal.hhyu.org/micro/202410300000_visual_cortex/</guid>
+      <description>&lt;p&gt;What is known as the visual cortex today was thought to be the site of &amp;ldquo;philoprogenitivty” (parental love) in phrenology.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

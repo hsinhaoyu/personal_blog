@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whimsical on Hsin-Hao Yu&#39;s Personal Blog</title>
+    <link>https://personal.hhyu.org/tags/whimsical/</link>
+    <description>Recent content in Whimsical on Hsin-Hao Yu&#39;s Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2018 23:10:25 +1100</lastBuildDate>
+    <atom:link href="https://personal.hhyu.org/tags/whimsical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro: Reading comic books as brain lesions</title>
+      <link>https://personal.hhyu.org/micro/201801092310_comic/</link>
+      <pubDate>Tue, 09 Jan 2018 23:10:25 +1100</pubDate>
+      <guid>https://personal.hhyu.org/micro/201801092310_comic/</guid>
+      <description>&lt;p&gt;I can’t be the only one who has trouble reading comic books. I have problems interpolating between the panels, and I find it hard to recognise the characters. In other words, I don’t know how one panel is related to the next, and I don’t know who’s who. Reading comic books to me is like a simulation of cortical lesions. It induces a mild form of &lt;a href=&#34;https://en.wikipedia.org/wiki/Akinetopsia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;akinetopsia&lt;/a&gt;(deficit in the perception of motion) and &lt;a href=&#34;https://en.wikipedia.org/wiki/Prosopagnosia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prosopagnosia&lt;/a&gt; (deficit in the perception of faces).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
