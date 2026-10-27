@@ -10,7 +10,25 @@
 =M-x hhyu-hugo-insert-image=
 =#+attr_html: :width 300px :class center=
 
+First move cursor below "Micros" and then =M-x hhyu-hugo-insert-post=.
+Then =C-x C-e H H=. A file will be created automatically in the right place. Just use =Hugo server= to preview.
+
 * Micros
+** DONE Micro: Personal Philosophy
+CLOSED: [2026-10-27 Tue 14:38]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 202610271433_micro-personal-philosophy
+:EXPORT_HUGO_SECTION: micro
+:EXPORT_HUGO_TAGS: "quote"
+:EXPORT_DATE: CLOSED
+:END:
+
+#+BEGIN_QUOTE
+Having a personal philosophy is like having a pet marmoset, because it may be very attractive when you acquire it, but there may be situations when it will not come it handy at all.
+
+--- Lemony Snicket in The /Grim Grotto/, Book 11 of /A Series of Unfortunate Events/
+#+END_QUOTE
+
 ** DONE Micro: The use of mirrors in the game of chess
 CLOSED: [2026-09-21 Mon 10:12]
 :PROPERTIES:
@@ -75,5 +93,3 @@ CLOSED: [2026-05-25 Mon 20:46]
 :EXPORT_DATE: CLOSED
 :END:
 According to a certain AI service, the 1900 Paris Expo (i.e. [[https://en.wikipedia.org/wiki/Exposition_Universelle_(1900)][Exposition Universelle]]) featured gamelans from Surakarta (central Java) and /Bali/.  That sounded very unlikely, because the first Balinese gamelan performance in Europe, I read, was by _Gunung Sari of Peliatan_ in the 1931 [[https://en.wikipedia.org/wiki/Paris_Colonial_Exposition][Paris Colonial Exposition]].  Where did the AI get the idea from? One possibility is that Judith Gautier, the 19th century Parisian writer, wrote that the gamelan musicians who graced the 1900 Paris Expo were from "Solo, Bali".  That was clearly an error, but now it might find its way into someone's homework.  Interestingly, that performance was attended by Olivier Messiaen. 
-
-
