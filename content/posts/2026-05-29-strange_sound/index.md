@@ -73,7 +73,7 @@ It appears that he didn't bother to read the paper by Alexander Ellis, published
 
 Shockingly, in Ellis' landmark 1885 publication, he argued that the scales used in non Western music are not like Western scales, and they are not corrupted or truncated version a universal Western scale. Rather, they deliberately contain intervals not found in Western music.  One striking example is the appearance of an interval sitting between the major 3rd and the minor 3rd in many cultures.  This _neutral third_ was not a tuning error - it's an aesthetic choice, giving the music a distinctive flavour that we tend to associate with the Middle East.
 
-Scales around the world are also _diverse_. Take pentatonic scales, for example.  Although many cultures choose to use 5-tone scales, there are different types of pentatonic scales, each with distinctive characteristics.  Ellis found a Chinese three-stringed guitar tuned a scale that closely matches the major pentatonic scale used in Blues, but you wouldn't mistake it with the Japanese [Hirajōshi](https://en.wikipedia.org/wiki/Hirajōshi_scale) pentatonic scale, because Hirajōshi has intervals smaller than a whole tone, giving it an elegant feel.  The Slendro tuning in gamelan is also 5-tone, but it's built with an entirely different principle. We'll examine it in more detail later.
+Scales around the world are also _diverse_. Take pentatonic scales, for example.  Although many cultures choose to use 5-tone scales, there are different types of pentatonic scales, each with distinctive characteristics.  Ellis found a Chinese three-stringed guitar tuned a scale that closely matches the major pentatonic scale used in Blues, but you wouldn't mistake it with the Japanese [Hirajōshi](https://en.wikipedia.org/wiki/Hirajōshi_scale) pentatonic scale, because Hirajōshi has intervals smaller than a whole tone, giving it an elegant feel.  The sléndro tuning in gamelan is also 5-tone, but it's built with an entirely different principle. We'll examine it in more detail later.
 
 In addition, Ellis concluded that music scales are  _artificial_ - meaning that they are not always constructed according to the mathematical or acoustical principles known to the West.  From Fig. A1 in the Appendix, you can see that the intervals in Ellis' measurement are often not aligned with the integer ratios favored by Western music - in direct contradiction to Bernstein's argument.
 
@@ -134,14 +134,70 @@ The spectra in Fig. 2 show that the compositions of gamelan instruments are fund
 
 The distinction is important.  Sounds composed of harmonic series are called _harmonic sounds_. Those that are not are called _inharmonic sound_. 
 
-This shouldn't be suprising to Ellis, because the composition of sounds had already been studied in details by the late 19th century.  In particular, [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz), the German physiologist and physicist, used a [scientific instrument](https://en.wikipedia.org/wiki/Helmholtz_resonance) that he invented to measure the spectral composition of sounds.  By 1863, he had already demonstrated that harmonci sounds are rare in nature.  However, he believed that inharmonic sounds are not musical, and therefore devoted his magnum opus [_On the Sensations of Tone_](https://en.wikipedia.org/wiki/Sensations_of_Tone) to the perception of harmonic sounds.  This research was done before the first known gamelan performance in Europe (in the 1879 Colonial and National Trade Exhibition in Arnhem).  If Helmholtz had the opportunity to hear a gamelan performance, perhaps his research would have taken a different direction.
+This shouldn't be suprising to Ellis, because the composition of sounds had already been studied in details by the late 19th century.  In particular, [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz), the German physiologist and physicist, used a [scientific instrument](https://en.wikipedia.org/wiki/Helmholtz_resonance) that he invented to measure the spectral composition of sounds.  By 1863, he had already demonstrated that harmonic sounds are rare in nature.  However, he believed that inharmonic sounds are not musical, and therefore devoted his magnum opus [_On the Sensations of Tone_](https://en.wikipedia.org/wiki/Sensations_of_Tone) to the perception of harmonic sounds.  This research was done before the first known gamelan performance in Europe (in the 1879 Colonial and National Trade Exhibition in Arnhem).  If Helmholtz had the opportunity to hear a gamelan performance, perhaps his research would have taken a different direction.
+
+## Intermission: _Ketawang Puspawarna_
+
+Before we proceed further, let's listen to this piece of Javanese gamelan:
+
+{{< youtube tFFs81tAQhw >}}
+
+This classic recording of _Ketawang Puspawarna_ (javanese word meaning "flowers of many kinds") is one of the music featured on the [golden record](https://en.wikipedia.org/wiki/Voyager_Golden_Record) on _Voyager_.  It's a recording that we hope that an alien civilization, if it exists, would be able to enjoy.  If harmonic sounds and intervals made up of simple integer ratios are so important to our sense of harmony in music, how can gamelan - which has none of these features - resonate with listeners who have no prior exposure to the gamelan culture?  To answer this question, we have to go deeper into Helmholtz's research.
 
 ## The insights of Hermann von Helmholtz
+
+Over the centuries, prominent scientists such as Euler, Galileo, Kepler and Leibniz (not to mention ancient mystics such as Pythogoras) had theorised that harmony and beauty of music was based on hidden connections to mathematics or physics.  The fundamental problem of this approach was this: even if musical intervals do follow precise mathematical relationship, why is this relationship perceived as beautiful or harmonious by the human mind?  Why is this relationship not perceived as unpleasant or neutral?  It's difficult to not fall into the traps of circular reasoning or mysticism in this direction.
+
+Hermann von Helmholtz broke out of this trap in his landmark book _On the Sensations of Tone_, by showing that the sensation of consonance in music comes out of the interaction between the physics of sound and the physiology of the human body.  In other words, you need to have human-like anatomy and physiology to perceive the pleasure of human music.  So, sorry, Christian Huygens and Carl Sagan... aliens probably wouldn't be able to enjoy Pachelbel's Canon or Ketawang Puspawarna.  We already know that this must be true: damages to the inner ear can cause the patient to reduce or lose their sense of pleasure from music.  There is no transcendental abstract beauty shared by all rational beings.
+
+Helmholtz started with physics: if two sinusoidal waves with slightly different frequencies are played simultaneously, the two waveforms interact, resulting in modulation of amplitude - a phenomenon called _beating_. Low frequency beating has a pulsating effect that can be very pleasing[^10]. High frequency beating, on the other hand, is unpleasant (or _rough_, in Helmholtz' term). In Helmholtz' theory, beating is closely related the perception of consonant intervals - consonance is essentially the lack of roughness.
+
+<figure style="margin: 2em 0;">
+  <img src="beating.png"
+       alt="Consonant vs. dissonant intervals of harmonic sounds"
+       style="width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #6b7280; margin: 0.5em 0 0; text-align: center;">
+    Fig. 3: Consonant vs. dissonant intervals of harmonic sounds, according to the physiological theory of Helmholtz.
+  </figcaption>
+</figure>
+
+Play two notes together.  Since each note is composed of a series of harmonics, every pair of harmonics between the two notes can interact, resulting in an enormously large number of beating waves, all superimposed together.  Wouldn't that sound chaotic?  This is where physiology comes in.  Helmholtz argued that neurons in the inner ear are organized like a set of "filters", each responds only to sound waves within a certain frequency range.  To analyze the consonance of an interval, we therefore only have to consider harmonics that fall into the range of a single filter.
+
+The following figure illustrates why in Western music, the perfect 5th (where the frequencies of two notes are in 3:2 relationship) is perceived as a pleasing consonant interval. The upper panel shows that when the two notes (whose harmonics are illustrated in different colors) are perfect 5th, the harmonics are not always aligned. However, when the harmonics are not aligned, they do not fall into the window of inner ear filters, so their interactions are not perceived. When the harmonics of the two notes fall into the window of a filter, they are perfectly aligned, creating no beating as well.  This is why, according to Helmholtz, the perfect 5th is so consonant.  
+
+The lower panel of Fig. 4 illustrates a Western instrument playing two notes in an interval of the sléndro scale.  The first harmonics are not aligned in the window of the relevant filter - this is why it doesn't sound pleasing.
+
+<figure style="margin: 2em 0;">
+  <img src="fig_harmonic_fifth_vs_slendro.png"
+       alt="Consonant vs. dissonant intervals of harmonic sounds"
+       style="width: 100%; height: auto; display: block; margin: 0;">
+  <figcaption style="font-size: 0.9em; color: #6b7280; margin: 0.5em 0 0; text-align: center;">
+    Fig. 4: Consonant vs. dissonant intervals of harmonic sounds, according to the physiological theory of Helmholtz.
+  </figcaption>
+</figure>
+
+Applying the same logic to other intervals explains also why Western music favors intervals with simple integer ratios.  It's important to note that there is nothing inherently pleasing about simple integer ratios. They are consonant only if the sounds are harmonic, and if inner-ear neurons respond to sound in the manner described above.  If the sound is inharmonic, consonant intervals would be different.
+
+William Sethares applied this logic to gamelan[^7]. Fig. 5 below illustrates a simplified version of his argument, in which the inharmonic sound of a gamelan instrument (the Bonang) is played simultaneously with the harmonic sound of the human voice of a string instrument (the recording of _Ketawang Puspawarna_ discussed above shows that it is a common in Javanese gamelan).  The situation is reverse, it's the perfect 5th that creates beating, not the interval in sléndro.
+
+<figure style="margin: 2em 0;">
+  <img src="fig_bonang_fifth_vs_slendro.png"
+       alt="Consonant vs. disonant intervals of inharmonic sounds""
+       style="width: 100%; height: auto; display: block; margin: 0;">
+  <figcaption style="font-size: 0.9em; color: #6b7280; margin: 0.5em 0 0; text-align: center;">
+    Fig. 5: Consonant vs. dissonant intervals of inharmonic sounds, according to the computation theory of William Sethares.
+  </figcaption>
+</figure>
+
+Sethares' theory is not fully developed yet.  I don't think it convincingly explains the gamelan scales, but it is a starting point to show that these scales are not as _artificial_ as Ellis thought.  A recent psychological study[^11] showed that when subjects with no exposure to gamelan were asked to judge the pleasantness of intervals using inharmonic and harmonic sound (a setting similar to Fig. 5), the perfect 5th was not the interval that they selected. Instead, they preferred some of the sléndro intervals.  This is a confirmation of Helmholtz' theory - consonant intervals are not fixed.  They depend on the characteristics of the sound.
+
+## Conclusions
+
 
 
 ## Appendix: Observations of Ellis' measurements
 
-Alexander Ellis' 1885 publication tabulated a large number of scales compiled from multiple sources.  Some are idealised scales derived from theoretical publications. Here, we only take a quick look at some of the data that he and his correspondents actually measured from instruments[^10].
+Alexander Ellis' 1885 publication tabulated a large number of scales compiled from multiple sources.  Some are idealised scales derived from theoretical publications. Here, we only take a quick look at some of the data that he and his correspondents actually measured from instruments[^12].
 
 First, in Fig. A1, we look at the frequencies of the notes in a scale relative to the root note. The frequencies are expressed in the unit of _cents_ invented by Ellis.  An octave is divided equally into 1200 cents. A semitone is 100 cents.  For most listeners, deviations of 20–30 cent	sounds noticeably out of tune.
 
@@ -217,4 +273,8 @@ Following Pythogoras, the perfect 5th interval is central to Western music theor
 
 [^9]: See, for example, [Balinese Gamelan Tuning: The Toth Archives](https://journal.iftawm.org/previous/vol9no2/vitale-sethares/) Vitale & Sethares (2021)
 
-[^10]: For this exercise, I used digitized version of Ellis' measurements in the [Database of Musical Scales](https://github.com/jomimc/DaMuSc), with some errors corrected.  Each row is not necessarily measured from one single instrument - Ellis frequently listed averaged values from multiple instruments.  In some situations, measurements of the same instruments can be broken into multiple entries.  Also, the entries are not necessarily scales.  They can be a collection of notes whose subsets form scales.  In this article, I use the term scale loosely.
+[^10]: The pleasant pulsating effect of slow beating is used to great effects in Balinese gamelan. It's called _ombak_ (meaning "waves" in Indonesian).
+
+[^11]: See _Timbral effects on consonance disentangle psychoacoustic mechanisms and suggest perceptual origins for musical scales_, Marjieh _et al._ (2024) [[link](https://www.nature.com/articles/s41467-024-45812-z)]
+
+[^12]: For this exercise, I used digitized version of Ellis' measurements in the [Database of Musical Scales](https://github.com/jomimc/DaMuSc), with some errors corrected.  Each row is not necessarily measured from one single instrument - Ellis frequently listed averaged values from multiple instruments.  In some situations, measurements of the same instruments can be broken into multiple entries.  Also, the entries are not necessarily scales.  They can be a collection of notes whose subsets form scales.  In this article, I use the term scale loosely.
