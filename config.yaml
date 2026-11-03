@@ -48,6 +48,8 @@ summaryLength: 100
 
 # Site parameters
 params:
+  # With the hugo-theme-mini, this will disable the noindex tag
+  env: production
   # Site Author
   author: Hsin-Hao Yu
   # Author biography
