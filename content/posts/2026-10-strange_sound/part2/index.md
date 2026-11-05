@@ -20,6 +20,8 @@ It appears that he didn't bother to read the paper by Alexander Ellis, published
 
 ## The diversity of musical scales
 
+After years of tireless data collection, Ellis came to this surprising conclusion:
+
 > "The Musical Scale is not one, not 'natural', nor even founded 
 > necessarily on the laws of the constitution of musical sound, 
 > so beautifully worked out by Helmholtz, but very diverse, very 
@@ -34,15 +36,17 @@ In non-specialist forums today, there are many articles and videos demonstrating
 
 However, the neutral third is not exclusive to the music of the Middle East.  Ellis was surprised when he heard it in the music of the Scotland highland.  
 
-Another important discovery is that music scales are truly diverse, reflecting the aesthetics of the individual culture.  Take scales with 5 notes (i.d., _pentatonic scales_), for example.  Although many cultures use 5-tone scales, there are different types of pentatonic scales, each with distinctive characteristics.  Ellis found a Chinese three-stringed guitar tuned a scale that closely matches the major pentatonic scale used in Blues, but you wouldn't mistake it with the Japanese [Hirajōshi](https://en.wikipedia.org/wiki/Hirajōshi_scale) scale.  Unlike the pentatonic scale used in Blues, which consists of wide intervals (intervals larger than a whole step on the piano keyboard), the Hirajōshi scale has smaller intervals, giving it a particular flavour of Japanese elegant.  Europeans used to believe that the prevalent use of 5 tone scales in non Western cultures is because these primitive cultures failed to develop sensitivity and appreciation for fine intervals, but that is not what Ellis found in his data.
+Another important discovery is that music scales are truly diverse, reflecting the aesthetics of the individual culture.  Take scales with 5 notes (i.d., _pentatonic scales_), for example.  Although many cultures use 5-tone scales, there are different types of pentatonic scales, each with distinctive characteristics.  Ellis found a Chinese three-stringed guitar ([Sanxian](https://en.wikipedia.org/wiki/Sanxian)) tuned a scale that closely matches the major pentatonic scale used in Blues, but you wouldn't mistake it with the Japanese [Hirajōshi](https://en.wikipedia.org/wiki/Hirajōshi_scale) scale.  Unlike the pentatonic scale used in Blues, which consists of wide intervals (intervals larger than a whole step on the piano keyboard), the Hirajōshi scale has smaller intervals, giving it a particular flavour of Japanese elegant.  Europeans used to believe that the prevalent use of 5 tone scales in non Western cultures is because these primitive cultures failed to develop sensitivity and appreciation for fine intervals, but that is not what Ellis found in his data.
 
 {{< youtube hQhfZcDKY-s>}}
 
-So, Ellis concluded that music scales are _diverse_, _artificial_ and _capricious_.  In the next section, we'll examine what Ellis learned from his measurement of gamelan instruments to understand what he meant by those provocative words.
+According Ellis' famous conclusion, music scales are _diverse_, _artificial_ and _capricious_.  In the next section, we'll examine what Ellis learned from his measurement of gamelan instruments to understand what he meant by those provocative words.
 
 ## The strange tuning of gamelan
 
 The crown jewel of Ellis' paper is the gamelan data collected at the Royal Aquarium, because this data avoids some of the most significant methodological problems in other sections of Ellis' paper.  The gamelan instruments were played correctly, they were in good working conditions, and the measurements were precise and were repeated for different instruments in the ensemble.  Most of his observations still hold up today.
+
+Fig. 1 below illustrates the gamelan tunings measured by Ellis. Each row under the "Java" heading is a representation of the frequencies of the notes, averaged across multiple instruments.  The frequencies are expressed in the unit of _cents_ invented by Ellis.  An octave is divided equally into 1200 cents. A semitone is 100 cents.  For most listeners, deviations of 20–30 cent	sounds noticeably out of tune.  At the top of the plot, I also added the frequency ratios of the intervals.  The simplest ratios are prominent in Western music theory (2:1 for octave, 3:2 for the perfect fifth, and 4:3 for the perfect fourth) - they are marked by bold vertical lines.
 
 <figure style="margin: 2em 0;">
   <img src="ellis_java_ratios_notes_labelled.png"
@@ -53,7 +57,7 @@ The crown jewel of Ellis' paper is the gamelan data collected at the Royal Aquar
   </figcaption>
 </figure>
 
-In terms of diversity, Ellis observed that Javanese gamelan used two entirely different tuning systems, called sléndro and pélog. The instruments for the two systems are not exchangeable; they have different repertoire, although one single performance can feature compositions from both systems.  The is very little overlap between the notes in the two systems.  Sléndro is a pentatonic scale which roughly divides an octave into 5 equal parts, whereas pélog is a 7-note system consisting of very small intervals and very big intervals. The 7 notes in Pélog tuning are not employed all at once in a composition. Rather, certain 5-note subsets are used.  This is quite different from Western music, where all compositions are based on one theoretical construct (at least up to the late 19th century).
+In terms of diversity, Ellis observed that Javanese gamelan used two entirely different tuning systems, called sléndro and pélog. The instruments for the two systems are not exchangeable; they have different repertoire, although one single performance can feature compositions from both systems.  The is very little overlap between the notes in the two systems.  Sléndro is a pentatonic scale which roughly divides an octave into 5 equal parts, whereas pélog is a 7-note system consisting of very small intervals and very big intervals. The 7 notes in Pélog tuning are not employed all at once in a composition. Rather, certain 5-note subsets are used.  This is quite different from Western music, where all compositions are based on one theoretical construct (at least up to the late 19th century).  Gamelan is primarily composed in pentatonic scales, but they are very different from the pentatonic scale used in Blues and in the music of China and Japan.
 
 {{< youtube 3Ku9iH2pU9g >}}
 
@@ -61,9 +65,9 @@ The two tuning systems must seem completely arbitrary to Ellis, because the note
 
 Another head scratcher is the deviation from the Western concept of octave: As you play higher and higher notes in an instrument, when the "same" note repeats, the frequency is not necessarily doubled.  It seems hard to understand from the Western perspective, but Ellis observed this phenomenon in other cultures as well.
 
-Finally, we come to capriciousness.  Sléndro and pélog are strictly speaking not scales in the western sense. Rather, they are rough guides.  Ellis compared his tuning data with another set of gamelan measurements made at Leiden, Netherlands, and noticed that while the tunings of individual instruments in the same gamelan ensemble are remarkably consistent (indicating that they are precisely tuned), two different ensembles can have significantly different interpretations of the sléndro and the pélog.  Modern large scale comparisons show that the variation is a consistent feature of the gamelan culture[^3].  
+Finally, we come to capriciousness.  Sléndro and pélog are strictly speaking not scales in the western sense. Rather, they are rough guides.  Ellis compared his tuning data with another set of gamelan measurements made at Leiden, Netherlands, and noticed that while the tunings of individual instruments in the same gamelan ensemble are remarkably consistent (indicating that they are precisely tuned), two different ensembles can have significantly different interpretations of the sléndro and the pélog.  Modern large scale comparisons show that the variation is a consistent feature of the gamelan culture[^2].  
 
-## 
+## Is it all culture?
 
 What can we conclude from these observations?  That the mathematical patterns observed in Western tuning was also artificial?  In Part 3 of this series, we'll see that the artificial part of the conclusion is only partially correct, and that there is a deeper reason behind the simple integer ratios and the harmonic series.  For that, we'll need to look into the physics of sound and the physiology of human hearing.
 
@@ -72,9 +76,7 @@ What can we conclude from these observations?  That the mathematical patterns ob
 # Appendix: Observations on Ellis' data
 Alexander Ellis' 1885 publication tabulated a large number of scales compiled from multiple sources.  Some are idealised scales derived from theoretical publications. Here, we only take a quick look at some of the data that he and his correspondents actually measured from instruments[^3].
 
-First, in Fig. A1, we look at the frequencies of the notes in a scale relative to the root note. The frequencies are expressed in the unit of _cents_ invented by Ellis.  An octave is divided equally into 1200 cents. A semitone is 100 cents.  For most listeners, deviations of 20–30 cent	sounds noticeably out of tune.
-
-At the top of the plot, I also added the frequency ratios of the intervals.  The simplest ratios are prominent in Western music theory (2:1 for octave, 3:2 for the perfect fifth, and 4:3 for the perfect fourth) - they are marked by bold vertical lines.  The Western scales in the figure are equally tempered, so the notes do not always land precisely on the intervals of integer ratios, but the fourth and the fifth are very close. 
+First, in Fig. A1, we look at the frequencies of the notes in a scale relative to the root note (expressed in the unit of _cents_).  At the top of the plot, I also added the frequency ratios of the intervals.  The simplest ratios are prominent in Western music theory (2:1 for octave, 3:2 for the perfect fifth, and 4:3 for the perfect fourth) - they are marked by bold vertical lines.  The Western scales in the figure are equally tempered, so the notes do not always land precisely on the intervals of integer ratios, but the fourth and the fifth are very close. 
 
 Ellis' measurements of the Chinese three-stringed guitar [Sanxian](https://en.wikipedia.org/wiki/Sanxian) produced a pentatonic scale that matched the integer ratios closely, but it is far from the norm.  There is a weak tendency for notes to cluster around the perfect 4th and 5th intervals, but they very rarely land on 2:1, 3:2 and 4:3 exactly.  As we've noted previously, in several cultures, an "octave" (i.e., the next note after the last note in a scale) does not correspond to doubling of frequency. 
 
@@ -100,7 +102,7 @@ The figure below is a simple demonstration showing that most of the scales in El
   </figcaption>
 </figure>
 
-[^1]: Bernstein's argument was not original.  It was based on the theory of [Jean-Philippe Rameau](https://en.wikipedia.org/wiki/Jean-Philippe_Rameau), the 18th century musician and theorist, but married with the linguistics of Noam Chomsky.
+[^1]: Bernstein's argument was not original.  It was based on the theory of [Jean-Philippe Rameau](https://en.wikipedia.org/wiki/Jean-Philippe_Rameau), the 18th century musician and theorist, but married with the [linguistics of Noam Chomsky](https://en.wikipedia.org/wiki/Universal_grammar).
 
 [^2]: See, for example, [Balinese Gamelan Tuning: The Toth Archives](https://journal.iftawm.org/previous/vol9no2/vitale-sethares/) Vitale & Sethares (2021)
 
