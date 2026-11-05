@@ -1,0 +1,14 @@
+{{ with .Page.Params.series }}
+  {{ $pages := where site.RegularPages "Params.series" . }}
+  <nav class="series-nav">
+    <p>This post is part of a series:</p>
+    <ol>
+      {{ range sort $pages "Params.series_part" }}
+        <li>
+          {{ if eq . $.Page }}<strong>{{ .LinkTitle }}</strong>
+          {{ else }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+        </li>
+      {{ end }}
+    </ol>
+  </nav>
+{{ end }}
