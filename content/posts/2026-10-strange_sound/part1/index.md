@@ -23,7 +23,7 @@ This is the first of a 3-part series about the diversity and universal in music.
 
 The late 19th century was a critical time in our modern understanding of music.  It's a time when colonialism started to bring the music of far way lands to Europe, thus giving the public opportunities to experience non-western music first hand.  The most well-known example is Claude Debussy's encounter with Sundanese (i.e., Western Javanese) gamelan at the 1889 Exposition Universelle in Paris[^2]. The music impressed him so profoundly that he wrote that "...Javanese music is based on a type of counterpoint by comparison with which that of Palestrina is child's play."  But that level of appreciation was far from common.  A London pundit who visited a gamelan performance in 1882, for example, compared the bronze instruments to saucepans and the music to "noise made by the kitchen utensils of a Margate steamer in a storm"[^3].  
 
-In this article, we'll focus on one of such encounters...
+In this article, we'll focus on one of such encounters.
 
 <figure style="float: left; margin: 0 1.5em 1em 0;">
   <img src="s_exterior.jpg" alt="Description" style="width: 250px; display: block;">
