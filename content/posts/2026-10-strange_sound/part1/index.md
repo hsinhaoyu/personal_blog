@@ -1,5 +1,5 @@
 ---
-title: "What does the sound of gamelan tell us about universals in music? Part 1"
+title: "What does the sound of gamelan tell us about universals in music? (Part 1)"
 date: 2026-05-29T23:07:00+10:00
 draft: true
 tags: ["gamelan", "history", "psychology", "science"]
@@ -13,7 +13,7 @@ If you are asked to curate a collection of music for the enjoyment of an alien c
 
 It is a piece of _gamelan_, recorded by American musicologist [Robert E. Brown](https://en.wikipedia.org/wiki/Robert_E._Brown) at the royal palace of Jogyakarta, Java in 1971.  This composition, titled _Ketawang Puspawarna_ (javanese word meaning "flowers of many kinds"), is a small sample from a music tradition that has been in continuous development for more than a thousand years - one of the many that are included in the golden disc.
 
-From the perspective of human listeners, these two tracks sound dramatically different.  Some listeners can appreciate the sophistication in both, seeing both as examples of artistic expression at the highest level.  Others - especially those with little prior exposure to gamelan - fail to hear the familiar sounds and their associated emotional/social meanings, and regard _Puspawarna_ as nothing more than a curiosity.
+From the perspective of human listeners, these two tracks sound dramatically different.  Some listeners can appreciate the sophistication in both, seeing both as artistic expressions at the highest level.  Others - especially those with little prior exposure to gamelan - fail to hear the familiar sounds and their associated emotional/social meanings, and regard _Puspawarna_ as nothing more than a curiosity.
 
 That brings us to the question of universals in music.  How much of our appreciation of music is tied to a specific culture, on a specific planet?  It's often said that music is a universal language. The 17th century physicist Christian Huygens went as far as conjecturing that inhabitants of other planets must be able to enjoy classical music[^1], based on the then popular belief that beauty in music has its origin in the laws of nature, which must be recognizable by all rational beings and therefore can be expected to transcend culture (maybe at galactic scale).  If we follow this line of reasoning, wouldn't it be pointless to include _Puspawarna_ in the golden disc?  Or, put in a different way, why do music on the disc sound so different?  Are they variations of some hidden, deep universal principles, or are just as different as human cultures?
 

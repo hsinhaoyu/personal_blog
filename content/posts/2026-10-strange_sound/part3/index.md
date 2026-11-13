@@ -1,5 +1,5 @@
 ---
-title: "What does the sound of gamelan tell us about universals in music? Part 3"
+title: "What does the sound of gamelan tell us about universals in music? (Part 3)"
 date: 2026-05-29T23:30:00+10:00
 draft: true
 tags: ["gamelan", "history", "psychology", "science"]
