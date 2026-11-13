@@ -7,13 +7,13 @@ series: "gamelan-tuning"
 series_part: 3
 ---
 
-In [Part 2]({{< relref "../part2/index.md" >}}) of this series, we saw that in the West, there is a long intellectual history of attributing the beauty of music to laws of physics of mathematics.  This is primarily motivated by the observation that notes that sound harmonious together seem to have frequencies in simple integer relationships.  
+In [Part 1]({{< relref "../part1/index.md" >}}) of this series, we saw that in the West, there is a long intellectual history of attributing the beauty of music to laws of physics of mathematics.  This is primarily motivated by the observation that notes that sound harmonious together seem to have frequencies in simple integer relationships.  
 
 Alexander Ellis, however, observed that the simple integer ratio relationships are, in general, not followed across different cultures.  One possible explanation is that the Europeans are the first to develop the intellectual sophistication to create music that mirrors the universal laws in mathematics and physics, and therefore, non Western music will eventually converge to Western music as their cultures progress, or at least develop music with extensive overlap with Western music.  Another interpretation is that music scales around the world are fundamentally different, and scales can be as arbitrary as any cultural practices.
 
 At a glance, it appears to many that these two views are the only possible explanations, but even the 19th century, scientists such as Hermann von Helmholtz already started the development of the modern science of music perception, which emphasises that pleasant intervals in music are not fixed.  Rather, they are the outcome of the interactions among the physics of sound, the physiology of the hearing, and other factors.  The implication is that if there is universal in music, it is human perception.
 
-In this article, we will use gamelan as an example to understand that Ellis' findings do not necessarily mean that non Western scales are artificial or arbitrary. To see this, we have to go deeper into the nature of sounds.
+In this part of the series, we will use gamelan as an example to understand that Ellis' findings do not necessarily mean that non Western scales are artificial or arbitrary. To see this, we have to go deeper into the nature of sounds.
 
 ## A metal plate doesn't sound like a piano string
 
@@ -96,7 +96,7 @@ As mentioned earlier, Helmholtz restricted his analyses of musical intervals to 
   </figcaption>
 </figure>
 
-It's not all theoretical.  A recent psychological study[^6] showed that when subjects with no exposure to gamelan were asked to judge the pleasantness of intervals using inharmonic and harmonic sound (a setting similar to Sethares' study), the perfect 5th was not the interval that they selected. Instead, they preferred some of the sléndro intervals.  This is a confirmation of Helmholtz' theory - consonant intervals are not fixed.  They depend on the characteristics of the sound.
+This argument appears to be highly theoretical.  Do people actually hear the difference?  In recent years, a group of psychologists asked participants in an experiment to judge the pleasantness of intervals using inharmonic and harmonic sounds (similar to Sethares' computational modeling)[^6].  The result was that the participants preferred some of the sléndro intervals over the prefect 5th.  The participants in this study had no exposure to gamelan, so this result cannot be attributed to familiarity with the intervals used in gamelan.  This is a beautiful demostration of one of Helmholtz' most important insights: consonance is dependent on the sound.  
 
 The above does not explain everything about gamelan. We haven't looked into the more complicated pelog tuning, we haven't considered other gamelan instruments... and so on, but it gives us sufficient reason to believe that at least some aspects of gamelan's tuning isn't as arbitrary as Ellis thought.
 
