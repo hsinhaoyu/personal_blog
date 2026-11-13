@@ -7,7 +7,7 @@ series: "gamelan-tuning"
 series_part: 3
 ---
 
-In Part 2 of this series, we saw that in the West, there is a long intellectual history of attributing the beauty of music to laws of physics of mathematics.  This is primarily motivated by the observation that notes that sound harmonious together seem to have frequencies in simple integer relationships.  
+In [Part 2]({{< relref "../part2/index.md" >}}) of this series, we saw that in the West, there is a long intellectual history of attributing the beauty of music to laws of physics of mathematics.  This is primarily motivated by the observation that notes that sound harmonious together seem to have frequencies in simple integer relationships.  
 
 Alexander Ellis, however, observed that the simple integer ratio relationships are, in general, not followed across different cultures.  One possible explanation is that the Europeans are the first to develop the intellectual sophistication to create music that mirrors the universal laws in mathematics and physics, and therefore, non Western music will eventually converge to Western music as their cultures progress, or at least develop music with extensive overlap with Western music.  Another interpretation is that music scales around the world are fundamentally different, and scales can be as arbitrary as any cultural practices.
 
@@ -30,7 +30,7 @@ The sound of gamelan is so fundamentally different from Western music that when 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
-To understand why this sound is so unusual, let's return to Bernstein's lecture mention in Part 2.  In the following segment from his lecture, he used a piano to demonstrate that a single piano note multiple frequencies called _harmonics_.  We don't hear the individual harmonics normally, because they are fused together to be perceived as the timbre of the note, but with proper technique[^2], it's possible to amplify them individually so they become audible:
+To understand why this sound is so unusual, let's return to Bernstein's lecture mention in [Part 2]({{< relref "../part2/index.md" >}}).  In the following segment from his lecture, he used a piano to demonstrate that a single piano note multiple frequencies called _harmonics_.  We don't hear the individual harmonics normally, because they are fused together to be perceived as the timbre of the note, but with proper technique[^2], it's possible to amplify them individually so they become audible:
 
 {{< youtube 3TlQryUBz3E >}}
 
@@ -85,7 +85,7 @@ The lower panel of Fig. 3 illustrates a Western instrument playing two notes in 
 Importantly, in this theory, there is nothing inherently pleasing about simple integer ratios. They are consonant only if the sound is harmonic. If the sound is inharmonic, consonant intervals would be different.
 
 ## The acoustic basis of gamelan scales
-As mentioned earlier, Helmholtz restricted his analyses of musical intervals to harmonic sound used in Western music. It would take more than a century for modern researchers, added by computers, to pick up where Helmholtz left off.  Fig. 4 below illustrates a simplified version of a study of William Sethares[^5], where he examined a scenario where the inharmonic sound of the Bonang (see Fig. 1) is played simultaneously with the harmonic sound of the human voice of a string instrument - which is common in Javanese gamelan.  The perceived consonance is now reversed: it's the perfect 5th interval, with the simple integer of 3:2, that has misaligned harmonics (see the upper panel).  An interval in the sléndro (see the lower panel) now has smaller misalignment.  Helmholtz' theory, therefore, predicts that in gamelan, the sléndro interval sounds more consonant, even though the frequencies are a simple integer ratio.  Sethares used a computer program to look for intervals that sound most consonant, and was able to produce a scale that approximate sléndro, suggesting that it is not arbitrary, after all.
+As mentioned earlier, Helmholtz restricted his analyses of musical intervals to harmonic sound used in Western music. It would take more than a century for modern researchers, added by computers, to pick up where Helmholtz left off.  Fig. 4 below illustrates a simplified version of a study of William Sethares[^5], where he examined a scenario where the inharmonic sound of the Bonang (see Fig. 1) is played simultaneously with the harmonic sound of the human voice of a string instrument - which is common in Javanese gamelan (listen to _Puspawarna_ in [Part 1]({{< relref "../part1/index.md" >}}) again to experience the sound).  The perceived consonance is now reversed: it's the perfect 5th interval, with the simple integer of 3:2, that has misaligned harmonics (see the upper panel).  An interval in the sléndro (see the lower panel) now has smaller misalignment.  Helmholtz' theory, therefore, predicts that in gamelan, the sléndro interval sounds more consonant, even though the frequencies are not a simple integer ratio.  Sethares used a computer program to look for intervals that sound most consonant, and was able to produce a scale that approximate sléndro, suggesting that it is not arbitrary, after all.
 
 <figure style="margin: 2em 0;">
   <img src="fig_bonang_fifth_vs_slendro.png"

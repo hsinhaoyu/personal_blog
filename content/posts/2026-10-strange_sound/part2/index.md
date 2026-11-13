@@ -8,7 +8,7 @@ series_part: 2
 ---
 ## Is physics the origin of universals in music?
 
-In Part 1 of the series, we saw that the 19th century scholar Alexander Ellis set out to study scales - the fundamental building block of Western music - across different cultures, to test the idea that Western music scales were derived from the laws of natures, and therefore was universal to all cultures.  
+In [Part 1]({{< relref "../part1/index.md" >}}) of the series, we saw that the 19th century scholar Alexander Ellis set out to study scales - the fundamental building block of Western music - across different cultures, to test the idea that Western music scales were derived from the laws of natures, and therefore was universal to all cultures.  
 
 A modern expression of this line of thinking can be seen in the lecture below, given by composer and conductor Leonard Bernstein in 1973[^1].  In this lecture, he presented his belief that physics of sounds is the foundation in which all cultures derive their music from. He didn't say that the Western scale is universal, but that it's constructed according to the same physics law that other cultures derived their music from.
 
