@@ -1,5 +1,5 @@
 ---
-title: "What does the sound of gamelan tell us about universals in music? (Part 3)"
+title: "What does the sound of gamelan tell us about universals and diversity in music? (Part 3)"
 date: 2026-05-29T23:30:00+10:00
 draft: true
 tags: ["gamelan", "history", "psychology", "science"]
@@ -100,9 +100,28 @@ This argument appears to be highly theoretical.  Do people actually hear the dif
 
 The above does not explain everything about gamelan. We haven't looked into the more complicated pelog tuning, we haven't considered other gamelan instruments... and so on, but it gives us sufficient reason to believe that at least some aspects of gamelan's tuning isn't as arbitrary as Ellis thought.
 
+## Where does diversity in music come from?
+
+Let's revisit the Ellis' conclusion, which we have already seen in [Part 2]({{< relref "../part2/index.md" >}}):
+
+> The Musical Scale is not one, not 'natural', nor even founded 
+> necessarily on the laws of the constitution of musical sound, 
+> so beautifully worked out by Helmholtz, but very diverse, very 
+> artificial, and very capricious.
+
+Ellis, being the translator of _On the Sensations of Tone_, was well-versed in Helmholtz' theory and yet concluded that his finding contradicted the "laws worked out by Hemholtz".  That appears to be an over-reaction, given that Helmholtz himself wrote that:
+
+> Just as little as the gothic pointed arch, should our diatonic major scale be regarded as a natural product. At least such an expression is quite inapplicable, except in so far as both are necessary and natural consequences of the principle of style selected
+
+Helmholtz saw the role of his theory as merely imposing acoustical constraints on the cultural process of music development, but 19th century scholars couldn't help reading _On the Sensation of Tone_ as a scientific justification of Western music.  
+
+Why doesn't Helmholtz' theory contradict diversity?  First, because the acoustic sense of consonance is dependent on the physical characteristic of sound, musical diversity can come from the diversity of sounds that are used to make music across the world.  19th century scholars underestimated the diversity of musical sound.
+
+The second factor is that the sense of pleasure or harmony in music is not necessarily the same as consonance in acoustics.  In Western music, intervals considered pleasant are highly correlated with consonance[^7], but it is not universally true.  A team of scientists, for example, have shown that a native tribe living in the Amazon rain forest with minimal exposure to Wester music do not associate consonant intervals as being pleasant[^8].
+
 ## Conclusions
 
-By the end of the 19th century, Europeans started 
+This series touches on the intellectual history of the 19th century.  It was a time when European started to become exposed to a wide range of music across the world, which challenged the traditional Eurocentric point of view.  While musicologists collected data about different music cultures, physiologists started to develop modern theories about the perception of sound and music.  These theories would have important implications about our understanding of universals. 
 
 {{< series-nav >}}
 
@@ -117,3 +136,7 @@ By the end of the 19th century, Europeans started
 [^5]: See the texbook _Tuning, Timbre, Spectrum, Scale_ (2 eds.) by William Sethares (2005).
 
 [^6]: See _Timbral effects on consonance disentangle psychoacoustic mechanisms and suggest perceptual origins for musical scales_, Marjieh _et al._ (2024) [[link](https://www.nature.com/articles/s41467-024-45812-z)]
+
+[^7]: But they are not identical.  The same study cited in Footnote 6 shows that the most pleasant intervals judged by human subjects deviated from consonant intervals.
+
+[^8]: See _Indifference to dissonance in native Amazonians reveals cultural variation in music perception_, McDermott _et al._ (2016) [[link](https://www.nature.com/articles/nature18635)]
