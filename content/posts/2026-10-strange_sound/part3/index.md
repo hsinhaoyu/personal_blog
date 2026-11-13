@@ -9,11 +9,11 @@ series_part: 3
 
 In Part 2 of this series, we saw that in the West, there is a long intellectual history of attributing the beauty of music to laws of physics of mathematics.  This is primarily motivated by the observation that notes that sound harmonious together seem to have frequencies in simple integer relationships.  
 
-Alexander Ellis, however, observed that the simple integer ratio relationships are, in general, not followed.  One possible explanation is that there are universals in music, but the Europeans are the first to develop the intellectual sophistication to create music that mirrors the universal laws in mathematics and physics.  It follows that non Western music will eventually converge to Western music as their cultures progress, or at least develop music with extensive overlap with Western music.  Another interpretation is that music scales around the world are fundamentally different, and scales can be as arbitrary as any cultural practices.
+Alexander Ellis, however, observed that the simple integer ratio relationships are, in general, not followed across different cultures.  One possible explanation is that the Europeans are the first to develop the intellectual sophistication to create music that mirrors the universal laws in mathematics and physics, and therefore, non Western music will eventually converge to Western music as their cultures progress, or at least develop music with extensive overlap with Western music.  Another interpretation is that music scales around the world are fundamentally different, and scales can be as arbitrary as any cultural practices.
 
-At a glance, it appears to many that these two views are the only possible explanations, but even the 19th century, scientists such as Hermann von Helmholtz already demonstrated that the precise mathematical relationships in Western music are not the manifestation of laws in physics or mathematics.  Rather, they come out of the interaction between the physics of sound and the physiology of hearing.  This is a human-centric idea that puts the human biology at the forefront.  It implies that if there is universal in music, it is the human mind.
+At a glance, it appears to many that these two views are the only possible explanations, but even the 19th century, scientists such as Hermann von Helmholtz already started the development of the modern science of music perception, which emphasises that pleasant intervals in music are not fixed.  Rather, they are the outcome of the interactions among the physics of sound, the physiology of the hearing, and other factors.  The implication is that if there is universal in music, it is human perception.
 
-In this article, we will use gamelan as an example to show that music that do not follow simple integer relationships in its notes is not necessarily artificial or arbitrary. To see this, we have to go deeper into the nature of sounds.
+In this article, we will use gamelan as an example to understand that Ellis' findings do not necessarily mean that non Western scales are artificial or arbitrary. To see this, we have to go deeper into the nature of sounds.
 
 ## A metal plate doesn't sound like a piano string
 
@@ -30,7 +30,7 @@ The sound of gamelan is so fundamentally different from Western music that when 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
-To understand why this sound is so unusual, let's return to Bernstein's lecture mention in Part 2.  In the following segment from his lecture, he used a piano to demonstrate that a single piano note multiple frequencies called _harmonics_.  We don't hear the individual harmonics normally, because they are fused together to be perceived as the timbre of the note.  However, with proper technique[^2], Bernstein showed that they can be amplified to become individually audible:
+To understand why this sound is so unusual, let's return to Bernstein's lecture mention in Part 2.  In the following segment from his lecture, he used a piano to demonstrate that a single piano note multiple frequencies called _harmonics_.  We don't hear the individual harmonics normally, because they are fused together to be perceived as the timbre of the note, but with proper technique[^2], it's possible to amplify them individually so they become audible:
 
 {{< youtube 3TlQryUBz3E >}}
 
@@ -76,28 +76,29 @@ Now pay close attention to the alignment of pairs of harmonics across the two no
        alt="Consonant vs. dissonant intervals of harmonic sounds"
        style="width: 100%; height: auto; display: block; margin: 0;">
   <figcaption style="font-size: 0.9em; color: #6b7280; margin: 0.5em 0 0; text-align: center;">
-    Fig. 3: Consonant (upper panel) vs. dissonant (lower panel) intervals of harmonic sounds, according to the physiological theory of Helmholtz.
+    Fig. 3: Consonant (upper panel) vs. dissonant (lower panel) intervals of harmonic sounds, according to the physiological theory of Helmholtz.  The harmonics of the two notes, in colored in blue and the other in orange, are indicated by the vertical line segments.
   </figcaption>
 </figure>
 
 The lower panel of Fig. 3 illustrates a Western instrument playing two notes in an interval of the sléndro scale.  In this setting, there are misaligned pairs that fall into the frequency range of a detector.  The interaction creates perceivable beating, which is why a gamelan interval played on a Western instrument does not sound pleasing.
 
-Importantly, in this theory, there is nothing inherently pleasing about simple integer ratios. They are consonant only if the sounds are harmonic, and if inner-ear neurons respond to sound in the manner described above.  If the sound is inharmonic, consonant intervals would be different.
+Importantly, in this theory, there is nothing inherently pleasing about simple integer ratios. They are consonant only if the sound is harmonic. If the sound is inharmonic, consonant intervals would be different.
 
 ## The acoustic basis of gamelan scales
-
-William Sethares applied this logic to gamelan[^7]. Fig. 5 below illustrates a simplified version of his argument, in which the inharmonic sound of a gamelan instrument (the Bonang) is played simultaneously with the harmonic sound of the human voice of a string instrument (the recording of _Ketawang Puspawarna_ discussed above shows that it is a common in Javanese gamelan).  The situation is reverse, it's the perfect 5th that creates beating, not the interval in sléndro.
+As mentioned earlier, Helmholtz restricted his analyses of musical intervals to harmonic sound used in Western music. It would take more than a century for modern researchers, added by computers, to pick up where Helmholtz left off.  Fig. 4 below illustrates a simplified version of a study of William Sethares[^5], where he examined a scenario where the inharmonic sound of the Bonang (see Fig. 1) is played simultaneously with the harmonic sound of the human voice of a string instrument - which is common in Javanese gamelan.  The perceived consonance is now reversed: it's the perfect 5th interval, with the simple integer of 3:2, that has misaligned harmonics (see the upper panel).  An interval in the sléndro (see the lower panel) now has smaller misalignment.  Helmholtz' theory, therefore, predicts that in gamelan, the sléndro interval sounds more consonant, even though the frequencies are a simple integer ratio.  Sethares used a computer program to look for intervals that sound most consonant, and was able to produce a scale that approximate sléndro, suggesting that it is not arbitrary, after all.
 
 <figure style="margin: 2em 0;">
   <img src="fig_bonang_fifth_vs_slendro.png"
        alt="Consonant vs. disonant intervals of inharmonic sounds""
        style="width: 100%; height: auto; display: block; margin: 0;">
   <figcaption style="font-size: 0.9em; color: #6b7280; margin: 0.5em 0 0; text-align: center;">
-    Fig. 5: Consonant vs. dissonant intervals of inharmonic sounds, according to the computation theory of William Sethares.
+    Fig. 4: Consonant vs. dissonant intervals of an inharmonic sound (played on the Bonang, indicated by blue) and a harmonic sound (indicated by orange), according to the computation theory of William Sethares.
   </figcaption>
 </figure>
 
-Sethares' theory is not fully developed yet.  I don't think it convincingly explains the gamelan scales, but it is a starting point to show that these scales are not as _artificial_ as Ellis thought.  A recent psychological study[^11] showed that when subjects with no exposure to gamelan were asked to judge the pleasantness of intervals using inharmonic and harmonic sound (a setting similar to Fig. 5), the perfect 5th was not the interval that they selected. Instead, they preferred some of the sléndro intervals.  This is a confirmation of Helmholtz' theory - consonant intervals are not fixed.  They depend on the characteristics of the sound.
+It's not all theoretical.  A recent psychological study[^6] showed that when subjects with no exposure to gamelan were asked to judge the pleasantness of intervals using inharmonic and harmonic sound (a setting similar to Sethares' study), the perfect 5th was not the interval that they selected. Instead, they preferred some of the sléndro intervals.  This is a confirmation of Helmholtz' theory - consonant intervals are not fixed.  They depend on the characteristics of the sound.
+
+The above does not explain everything about gamelan. We haven't looked into the more complicated pelog tuning, we haven't considered other gamelan instruments... and so on, but it gives us sufficient reason to believe that at least some aspects of gamelan's tuning isn't as arbitrary as Ellis thought.
 
 ## Conclusions
 
@@ -113,5 +114,6 @@ By the end of the 19th century, Europeans started
 
 [^4]: In real instruments, the amplitudes of harmonics decrease with frequency.  In this figure, the amplitudes of the harmonics of the same note are the same for simplicity.  Also, the amplitudes of the higher note is smaller to make them more distinguishable in the figure.
 
-[^10]: See the texbook _Tuning, Timbre, Spectrum, Scale_ (2 eds.) by William Sethares (2005).
-[^11]: See _Timbral effects on consonance disentangle psychoacoustic mechanisms and suggest perceptual origins for musical scales_, Marjieh _et al._ (2024) [[link](https://www.nature.com/articles/s41467-024-45812-z)]
+[^5]: See the texbook _Tuning, Timbre, Spectrum, Scale_ (2 eds.) by William Sethares (2005).
+
+[^6]: See _Timbral effects on consonance disentangle psychoacoustic mechanisms and suggest perceptual origins for musical scales_, Marjieh _et al._ (2024) [[link](https://www.nature.com/articles/s41467-024-45812-z)]
