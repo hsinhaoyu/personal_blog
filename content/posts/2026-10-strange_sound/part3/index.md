@@ -117,11 +117,13 @@ Helmholtz saw the role of his theory as merely imposing acoustical constraints o
 
 Why doesn't Helmholtz' theory contradict diversity?  First, because the acoustic sense of consonance is dependent on the physical characteristic of sound, musical diversity can come from the diversity of sounds that are used to make music across the world.  19th century scholars underestimated the diversity of musical sound.
 
-The second factor is that the sense of pleasure or harmony in music is not necessarily the same as consonance in acoustics.  In Western music, intervals considered pleasant are highly correlated with consonance[^7], but it is not universally true.  A team of scientists, for example, have shown that a native tribe living in the Amazon rain forest with minimal exposure to Wester music do not associate consonant intervals as being pleasant[^8].
+The second factor is that the sense of pleasure or harmony in music is not necessarily the same as consonance in acoustics.  In Western music, intervals considered pleasant are highly correlated with consonance[^7], but it is not universally true.  A team of scientists, for example, have shown that a native tribe living in the Amazon rain forest with minimal exposure to Wester music do not associate consonant intervals as being pleasant[^8].  Another example is that in Balinese gamelan, pairs of instruments are precisely tuned to create a pulsating, slow beating effect[^3].  It is a different dimension of harmonious sound not systematically exploited in Western music.
 
-## Conclusions
+## A humanist point of view on universality
 
-This series touches on the intellectual history of the 19th century.  It was a time when European started to become exposed to a wide range of music across the world, which challenged the traditional Eurocentric point of view.  While musicologists collected data about different music cultures, physiologists started to develop modern theories about the perception of sound and music.  These theories would have important implications about our understanding of universals. 
+We started this series (in [Part 1]({{< relref "../part1/index.md" >}})) with the question if an alien civilization would be able to appreciate the music on Voyager's golden disc.  According to Helmholtz, harmony is in the interaction of sounds, which is dictated by physics, and physiology, which is shaped by the evolution history of the human species.  The implication is that you need to have the physiology of the human auditory system to enjoy music on Earth.  If the frequency range that inner ear neurons were to become wider or narrower, the distinction between consonant and dissonant relationships would be different, and the enjoyment of music would be altered.  Perhaps the music on earth - Brandenburg Concerto, Puspawarna, Johnny B. Goode - are only made for ourselves.
+
+Here on Earth, what we have learned from Helmholtz is a humanist understanding of universality that is broad enough to embrace the diversity of music across all cultures.  _Puspawarna_ may never reach an alien listener, but for anyone with human ears, it is an invitation to learn to hear.
 
 {{< series-nav >}}
 
@@ -140,3 +142,4 @@ This series touches on the intellectual history of the 19th century.  It was a t
 [^7]: But they are not identical.  The same study cited in Footnote 6 shows that the most pleasant intervals judged by human subjects deviated from consonant intervals.
 
 [^8]: See _Indifference to dissonance in native Amazonians reveals cultural variation in music perception_, McDermott _et al._ (2016) [[link](https://www.nature.com/articles/nature18635)]
+
