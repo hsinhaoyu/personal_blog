@@ -1,7 +1,7 @@
 ---
 title: "What does the sound of gamelan tell us about universals and diversity in music? (Part 2)"
-date: 2026-05-29T23:07:00+10:00
-draft: true
+date: 2026-11-15T20:10:00+11:00
+draft: false
 tags: ["gamelan", "history", "psychology", "science"]
 series: "gamelan-tuning"
 series_part: 2
